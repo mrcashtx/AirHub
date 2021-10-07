@@ -1,0 +1,93 @@
+Asset FQDN,Asset IP,Asset Name,Asset_ID,Datacenter,Elevated Credentials,Environment,Infra Zone,Last OS Update,Platform Name,Security Zone,airtable_createdTime,airtable_id,rec_no
+austx-hydra-prod-03.chtrse.com,98.6.16.16,Hydra Prod,ASSET-00000078,Austin,Yes,Production,Openstack,2021-04-28,Hydra,Green,2021-10-05T16:46:35.000Z,rec08EzUjv75CByNT,78
+dev-deo-testbox.chtrse.com,dev-deo-testbox,24.106.215.28,Sandbox,ASSET-00000075,Development,Openstack,2021-06-10,Sandbox,Green,2021-10-05T16:46:35.000Z,rec1VPwONyZtyzu0V,75
+clboh-hadoop-data-03.chtrse.com,24.142.178.186,Hadoop Data,ASSET-00000035,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,rec1YN0FOSjcDSm2q,35
+austx-stage-denodo-01.chtrse.com,71.78.96.21,Denodo,ASSET-00000054,Austin,Development,VMware,Green,2021-10-05T16:46:35.000Z,rec1k4kUJfoSHYpA9,54
+austx-hadoop-data-01.chtrse.com,71.78.96.118,Hadoop Data,ASSET-00000023,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,rec2FZWfcRlKNuLcJ,23
+austx-lab-hadoop-02.dev.chtrse.com,97.105.228.122,Hadoop,ASSET-00000004,Austin,Development,2021-08-09,Hadoop Dev,Green,2021-10-05T16:46:35.000Z,rec3Vr2Wh6oNA3KoK,4
+austx-hadoop-kafka-06.chtrse.com,71.78.96.125,Hadoop Kafka,ASSET-00000028,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,rec3vwAELneiY5oBR,28
+austx-hadoop-05.chtrse.com,50.84.225.207,Hadoop,ASSET-00000012,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,rec5aDfNjqNOVyfmT,12
+austx-deo-kube-node-2.chtrse.com,austx-deo-kube-node-2,98.6.16.146,Openstack Prod Austin/Columbus Others,ASSET-00000091,Austin,Production,Openstack,Green,2021-10-05T16:46:35.000Z,rec6TzFbvRwbLgHeb,91
+clboh-denodo-2.chtrse.com,clboh-denodo-2,67.53.231.136,Denodo,ASSET-00000051,Columbus,Yes,Openstack,2021-04-08,Green,2021-10-05T16:46:35.000Z,rec7BStphRpqkJ5aC,51
+clboh-hadoop-data-04.chtrse.com,24.142.178.187,Hadoop Data,ASSET-00000036,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,rec7YLQNzB6IzM4Vx,36
+austx-surveyor-prod-01.chtrse.com,austx-surveyor-prod-01,98.6.16.175,Openstack Prod Austin/Columbus Others,ASSET-00000088,Austin,Production,Openstack,Green,2021-10-05T16:46:35.000Z,rec7jiUui6vffpebi,88
+austx-lab-hadoop-04.dev.chtrse.com,97.105.228.124,Hadoop,ASSET-00000006,Austin,Development,2021-08-12,Hadoop Dev,Green,2021-10-05T16:46:35.000Z,rec7u5z1JB9J3WpS7,6
+austx-hadoop-kafka-03.chtrse.com,71.78.96.117,Hadoop Kafka,ASSET-00000022,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,rec8mcoqpm3yU0Tcc,22
+austx-hadoop-07.chtrse.com,50.84.225.209,Hadoop,ASSET-00000014,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,rec9QlZTlZjPYA717,14
+clboh-cache-deo-01.chtrse.com,clboh-cache-deo-01,67.53.231.132,Openstack Prod Austin/Columbus Others,ASSET-00000086,Columbus,Production,Openstack,Green,2021-10-05T16:46:35.000Z,recAZLI0z39pgFqLp,86
+clboh-hadoop-kafka-03.chtrse.com,24.142.178.56,Hadoop Kafka,ASSET-00000044,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recBtPQOWcam9Jpmi,44
+austx-hadoop-kafka-05.chtrse.com,71.78.96.124,Hadoop Kafka,ASSET-00000027,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recCBuAJrlUp7LAg1,27
+austx-lab-hadoop-client-01.dev.chtrse.com,97.105.228.120,Hadoop,ASSET-00000002,Austin,Development,2018-11-29,Hadoop Dev,Green,2021-10-05T16:22:19.000Z,recCblKrAKwDIJpGy,2
+austx-deo-kube-master.chtrse.com,austx-deo-kube-master,98.6.16.44,Openstack Prod Austin/Columbus Others,ASSET-00000089,Austin,Production,Openstack,Green,2021-10-05T16:46:35.000Z,recDG8yARYbnoSPHW,89
+clboh-hydra-prod-02.chtrse.com,67.53.231.73,Hydra Prod,ASSET-00000080,Columbus,Yes,Production,Openstack,2021-06-10,Hydra,Green,2021-10-05T16:46:35.000Z,recF9pkoK4sAMV4Dc,80
+austx-hadoop-03.chtrse.com,50.84.225.205,Hadoop,ASSET-00000010,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recFTZw4EYhU9uJwy,10
+clboh-hadoop-kafka-01.chtrse.com,24.142.178.54,Hadoop Kafka,ASSET-00000042,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recGG8zTy4C79l0vW,42
+austx-prod-denodo-01.chtrse.com,71.78.96.22,Denodo,ASSET-00000060,Austin,Production,VMware,Green,2021-10-05T16:46:35.000Z,recGGroJ17MBugOMC,60
+austx-hadoop-04.chtrse.com,50.84.225.206,Hadoop,ASSET-00000011,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recGJYKKGujlu88Xq,11
+austx-hadoop-edge-01.chtrse.com,71.78.96.114,Hadoop Edge,ASSET-00000019,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recGsSrlbPAS8nqHH,19
+clboh-hadoop-04.chtrse.com,24.142.178.170,Hadoop DR,ASSET-00000032,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recGtwMtnJ2XGVM8k,32
+austx-hadoop-kafka-02.chtrse.com,71.78.96.116,Hadoop Kafka,ASSET-00000021,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recGz0iaEaxUL7KCD,21
+clboh-hadoop-master-01.chtrse.com,24.142.178.42,Hadoop Master,ASSET-00000038,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recHSVTaB1tHeiAbX,38
+austx-hadoop-data-02.chtrse.com,71.78.96.119,Hadoop Data,ASSET-00000024,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recI2brABtr2DIEnp,24
+dev-deo-hydra-3.chtrse.com,dev-deo-hydra-3,24.106.215.187,Hydra,ASSET-00000072,Yes,Development,Openstack,2021-06-10,Hydra,Green,2021-10-05T16:46:35.000Z,recJ29HnitIsChrd3,72
+dev-deo-talend-admin.dev.chtrse.com,24.106.215.101,Talend Admin,ASSET-00000069,Development,Openstack,2020-02-04,Talend,Green,2021-10-05T16:46:35.000Z,recJSXvloFEnQzyf3,69
+clboh-hadoop-kafka-02.chtrse.com,24.142.178.55,Hadoop Kafka,ASSET-00000043,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recJkHafE0FbjHkBT,43
+austx-neo4j-01.chtrse.com,austx-neo4j-01,98.6.16.100,Openstack Prod Austin/Columbus Others,ASSET-00000083,Austin,Production,Openstack,2020-03-17,Green,2021-10-05T16:46:35.000Z,recLLbHLeG9kZWNPc,83
+austx-denodo-02.chtrse.com ,98.6.16.125,Denodo,ASSET-00000049,Austin,Yes,Openstack,2021-04-08,Green,2021-10-05T16:46:35.000Z,recLfhDCC1ctBINuF,49
+clboh-hadoop-kafka-04.chtrse.com,24.142.178.85,Hadoop Kafka,ASSET-00000045,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recMOZYvlELbQGoJW,45
+austx-hadoop-01.chtrse.com,50.84.225.90,Hadoop,ASSET-00000016,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recMo6pIIgskzVOoS,16
+clboh-hadoop-data-01.chtrse.com,24.142.178.184,Hadoop Data,ASSET-00000033,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recNGzlEwDz1MnNpc,33
+clboh-hadoop-edge-01.chtrse.com,24.142.178.46,Hadoop Edge,ASSET-00000041,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recOL2Bal6O3thFKU,41
+clboh-prod-denodo-01.chtrse.com,24.142.178.78,Denodo,ASSET-00000057,Columbus,Production,VMware,Green,2021-10-05T16:46:35.000Z,recOet5mccTDs7yU2,57
+clboh-hadoop-03.chtrse.com,24.142.178.169,Hadoop DR,ASSET-00000031,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recOnGZO5METZtAY2,31
+austx-lab-hadoop-05.dev.chtrse.com,97.105.228.125,Hadoop,ASSET-00000007,Austin,Development,2021-08-16,Hadoop Dev,Green,2021-10-05T16:46:35.000Z,recOx1cSSPMzZN9FG,7
+austx-hadoop-data-03.chtrse.com,71.78.96.120,Hadoop Data,ASSET-00000025,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recPwLyUxAFaYAhPD,25
+austx-denodo-01.chtrse.com,98.6.16.113,Denodo,ASSET-00000048,Austin,Yes,Openstack,2021-04-08,Green,2021-10-05T16:46:35.000Z,recQsTwFlZW9KbiCm,48
+dev-deo-granite-app.chtrse.com,dev-deo-granite-app,24.106.215.190,App,ASSET-00000073,Development,Openstack,2021-07-21,Granite,Green,2021-10-05T16:46:35.000Z,recRNe84ifzmlo2w3,73
+dev-deo-server-1.dev.chtrse.com,24.106.215.89,Openstack Dev,ASSET-00000063,Development,Openstack,2021-04-08,Green,2021-10-05T16:46:35.000Z,recRPOLeSXBkggTzo,63
+austx-granite-dg.chtrse.com,austx-granite-dg,98.6.16.75,Openstack Prod Austin/Columbus Others,ASSET-00000082,Austin,Production,Openstack,Green,2021-10-05T16:46:35.000Z,recRUxMyWGOIfChbO,82
+clboh-neo4j-01.chtrse.com,clboh-neo4j-01,67.53.231.242,Openstack Prod Austin/Columbus Others,ASSET-00000085,Columbus,Production,Openstack,2020-03-17,Green,2021-10-05T16:46:35.000Z,recS590YyoJfOSe47,85
+denodo.chtrse.com,69.134.46.75,Denodo,ASSET-00000062,VMware,2021-10-05T16:46:35.000Z,recSeLkHIzjCKiHc3,62
+austx-hydra-prod-01.chtrse.com,98.6.16.196,Hydra Prod,ASSET-00000076,Austin,Yes,Production,Openstack,2021-04-28,Hydra,Green,2021-10-05T16:46:35.000Z,recTKxscx4TEItTXQ,76
+dev-deo-umbrella.dev.lb.chtrse.com,24.106.215.249,API Umbrella,ASSET-00000064,Development,Openstack,2020-03-17,API Umbrella,Green,2021-10-05T16:46:35.000Z,recTyHDf9SrwsDVOg,64
+clboh-hadoop-data-02.chtrse.com,24.142.178.185,Hadoop Data,ASSET-00000034,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recU2VzYwOElRNBQq,34
+austx-hadoop-02.chtrse.com,50.84.225.204,Hadoop,ASSET-00000009,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recV1WBIME7uPJAVT,9
+austx-hadoop-kafka-01.chtrse.com,71.78.96.115,Hadoop Kafka,ASSET-00000020,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recVZjkII2VrhYw61,20
+clboh-dremio-01.chtrse.com,clboh-dremio-01,67.53.231.128,Openstack Prod Austin/Columbus Others,ASSET-00000084,Columbus,Production,Openstack,Green,2021-10-05T16:46:35.000Z,recW6a5ivmNpW0exJ,84
+austx-hadoop-06.chtrse.com,50.84.225.208,Hadoop,ASSET-00000013,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recWFy8EZKu1g1I51,13
+austx-lab-hadoop-06.dev.chtrse.com,97.105.228.126,Hadoop,ASSET-00000008,Austin,Yes,Development,2021-04-06,Hadoop Dev,Green,2021-10-05T16:46:35.000Z,recWt3TfSvm3kkDFi,8
+austx-lab-hadoop-manager-01.dev.chtrse.com,97.105.228.119,Hadoop,ASSET-00000001,Austin,Development,2019-07-29,Hadoop Dev,Green,2021-10-05T16:22:19.000Z,recYBx2SHzjdYcFsV,"['recYi77nE7QDNtrpf', 'recyk6mCWIQXaievz', 'recWUbDfbpBEJGCIG', 'rec8d9KD1KaSQaYvU', 'recYTpDUQwbq8m7T1', 'recQ0K9owuezVlmsm', 'recjBFjxghqV0Fyii', 'recOclk2Eu390RNlx', 'recTSjCVbS2af5kMI', 'rechLnWQn5md9mWkR', 'recajMaFX5EkwIkxC', 'recpBMUwsEGS2C6cr', 'recbULHPwO7CV2rBZ']",1,"['recgBLZkx7Q1sjpXf', 'recOxlMKzyv0NZBo2', 'rec1ZjvqhFqUaxXCV', 'recCZdj1mjNmuwOMd']"
+clboh-denodo-sm-03.chtrse.com,clboh-denodo-sm-03,67.53.231.173,Denodo,ASSET-00000050,Columbus,Yes,Openstack,2021-04-08,Green,2021-10-05T16:46:35.000Z,recaBIjRwuvmntMkh,50
+clboh-hadoop-master-03.chtrse.com,24.142.178.44,Hadoop Master,ASSET-00000040,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recaQg5Z2S9ZUGbSo,40
+dev-deo-hydra-2.chtrse.com,dev-deo-hydra-2,24.106.215.183,Hydra,ASSET-00000071,Yes,Development,Openstack,2021-06-10,Hydra,Green,2021-10-05T16:46:35.000Z,recb7Gl5URVAZzMgC,71
+austx-lab-hadoop-03.dev.chtrse.com,97.105.228.123,Hadoop,ASSET-00000005,Austin,Development,2021-08-09,Hadoop Dev,Green,2021-10-05T16:46:35.000Z,reccB4zewmeZHRch3,5
+clboh-hydra-prod-03.chtrse.com,67.53.231.125,Hydra Prod,ASSET-00000081,Columbus,Yes,Production,Openstack,2021-06-10,Hydra,Green,2021-10-05T16:46:35.000Z,recctuXe3zbVzAmJ9,81
+austx-deo-kube-node-1.chtrse.com,austx-deo-kube-node-1,98.6.16.80,Openstack Prod Austin/Columbus Others,ASSET-00000090,Austin,Production,Openstack,Green,2021-10-05T16:46:35.000Z,receNK2AYGJN66d30,90
+austx-hydra-prod-02.chtrse.com,98.6.16.169,Hydra Prod,ASSET-00000077,Austin,Yes,Production,Openstack,2021-04-28,Hydra,Green,2021-10-05T16:46:35.000Z,recfEJGpFzrjKsBmS,77
+dev-deo-granite-db.chtrse.com,dev-deo-granite-db,24.106.215.166,Database,ASSET-00000074,Development,Openstack,2021-07-21,Granite,Green,2021-10-05T16:46:35.000Z,recfMDSyrD3XzSOsU,74
+clboh-hadoop-master-02.chtrse.com,24.142.178.43,Hadoop Master,ASSET-00000039,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recfd9GwBXqtjQjJw,39
+clboh-stage-denodo-01.chtrse.com,24.142.178.77,Denodo,ASSET-00000059,Columbus,Development,VMware,Green,2021-10-05T16:46:35.000Z,recfrANjFK56VCVen,59
+clboh-denodo-01.chtrse.com,clboh-denodo-01,67.53.231.70,Denodo,ASSET-00000052,Columbus,Yes,Openstack,2021-04-08,Green,2021-10-05T16:46:35.000Z,rech5jx738KtP0kVC,52
+austx-lab-hadoop-01.dev.chtrse.com,97.105.228.121,Hadoop,ASSET-00000003,Austin,Yes,Development,2021-04-06,Hadoop Dev,Green,2021-10-05T16:22:19.000Z,rechkEXBpW4YmfDpo,3
+austx-hadoop-08.chtrse.com,50.84.225.210,Hadoop,ASSET-00000015,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recjohkNQY9UWpqRF,15
+clboh-prod-denodo-02.chtrse.com,24.142.178.97,Denodo,ASSET-00000058,Columbus,Production,VMware,Green,2021-10-05T16:46:35.000Z,recjpIfanGgZtgKmU,58
+clboh-hadoop-01.chtrse.com,24.142.178.167,Hadoop DR,ASSET-00000029,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recmDhZUtMjGW247U,29
+dev-deo-database-1.dev.chtrse.com,24.106.215.23,MariaDB,ASSET-00000066,Development,Openstack,2020-03-17,DEO Data Warehouse,Green,2021-10-05T16:46:35.000Z,recmYsCidfQ0nLviY,66
+austx-hadoop-master-03.chtrse.com,71.78.96.113,Hadoop Master,ASSET-00000018,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recnQkUN06oBNllhY,18
+clboh-hadoop-data-05.chtrse.com,24.142.178.188,Hadoop Data,ASSET-00000037,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recoLihn136y0kNLv,37
+ausx-lab-denodo-01.dev.chtrse.com,97.105.228.75,Denodo,ASSET-00000055,Austin,Development,VMware,Green,2021-10-05T16:46:35.000Z,recooIp07tqpkQU6A,55
+ denodo-vip.chtrse.com,198.24.118.147,Denodo,ASSET-00000053,Load Balancer,Yes,Production,Openstack,Green,2021-10-05T16:46:35.000Z,recpkwuhSGitNlCbO,53
+dev-deo-kettle-01.dev.chtrse.com,24.106.215.87,Kettle,ASSET-00000067,Development,Openstack,2020-03-17,Kettle,Green,2021-10-05T16:46:35.000Z,recpoo6Q0n9axXmW5,67
+clboh-hadoop-kafka-05.chtrse.com,24.142.178.86,Hadoop Kafka,ASSET-00000046,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recqUKKpOQJfHqdVC,46
+clboh-hydra-prod-01.chtrse.com,67.53.231.231,Hydra Prod,ASSET-00000079,Columbus,Yes,Production,Openstack,2021-06-10,Hydra,Green,2021-10-05T16:46:35.000Z,recs1jxxpTycGrDmy,79
+austx-deo-kube-node-3.chtrse.com,austx-deo-kube-node-3,98.6.16.177,Openstack Prod Austin/Columbus Others,ASSET-00000092,Austin,Production,Openstack,Green,2021-10-05T16:46:35.000Z,recu1e76NJVXiLbBJ,92
+clboh-talend-01.chtrse.com,clboh-talend-01,67.53.231.71,Openstack Prod Austin/Columbus Others,ASSET-00000087,Columbus,Production,Openstack,Green,2021-10-05T16:46:35.000Z,recuRdtV7nGjnTQEs,87
+austx-hadoop-master-02.chtrse.com,71.78.96.112,Hadoop Master,ASSET-00000017,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recvE3CHGAkK8557v,17
+dev-deo-hydra-1.chtrse.com,dev-deo-hydra-1,24.106.215.126,Hydra,ASSET-00000070,Yes,Development,Openstack,2021-06-10,Hydra,Green,2021-10-05T16:46:35.000Z,recvyjFH7laTyiz9Y,70
+clboh-denodo-01.chtrse.com,24.142.178.79,Denodo,ASSET-00000056,Columbus,VMware,Green,2021-10-05T16:46:35.000Z,recx44wKFKqUjirqF,56
+dev-deo-talend-worker.dev.chtrse.com,24.106.215.231,Talend Worker,ASSET-00000068,Development,Openstack,2020-02-02,Talend,Green,2021-10-05T16:46:35.000Z,recxE6TzIcs9Naa5P,68
+clboh-hadoop-kafka-06.chtrse.com,24.142.178.87,Hadoop Kafka,ASSET-00000047,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recxY4uwtFZKh4K4R,47
+austx-hadoop-data-05.chtrse.com,71.78.96.122,Hadoop Data,ASSET-00000026,Austin,Production,Hadoop Prod,Green,2021-10-05T16:46:35.000Z,recyEPOmQv0rRu1KS,26
+clboh-hadoop-02.chtrse.com,24.142.178.168,Hadoop DR,ASSET-00000030,Columbus,Production,Hadoop DR,Green,2021-10-05T16:46:35.000Z,recyq1O5riKXXrCmm,30
+austx-prod-denodo-02.chtrse.com,50.84.225.212,Denodo,ASSET-00000061,Austin,Production,VMware,Green,2021-10-05T16:46:35.000Z,reczC6NI2BIiY72g9,61
+dev-deo-neo4j-01.dev.chtrse.com,24.106.215.208,neo4j,ASSET-00000065,Development,Openstack,2020-03-17,DEO Data Graph,Green,2021-10-05T16:46:35.000Z,reczmuMUpshbzCCTF,65

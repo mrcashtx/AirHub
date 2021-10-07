@@ -1,10 +1,10 @@
 import json
 import csv
  
-with open('C:\Users\P2180559\Documents\Git Repos\Data Engineering\Airtable\AirHub\backups\tbl0eoeNzjHVU0w9Q.ndjson') as json_file:
+with open('tbl0eoeNzjHVU0w9Q.ndjson') as json_file:
     jsondata = json.load(json_file)
  
-data_file = open('C:\Users\P2180559\Documents\Git Repos\Data Engineering\Airtable\AirHub\backups\jsonoutput.csv', 'w', newline='')
+data_file = open('jsonoutput.csv', 'w', newline='')
 csv_writer = csv.writer(data_file)
  
 count = 0
