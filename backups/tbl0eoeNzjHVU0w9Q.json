@@ -964,14 +964,16 @@
         "Asset FQDN": "denodo.chtrse.com",
         "Asset IP": "69.134.46.75",
         "Asset Name": "Denodo",
-        "Asset Search": "ASSET-00000062 | Denodo | Denodo |  | 69.134.46.75 | denodo.chtrse.com | Denodo | 69.134.46.75 | denodo.chtrse.com | ",
+        "Asset Search": "ASSET-00000062 | Denodo | Denodo |  | 69.134.46.75 | denodo.chtrse.com | Denodo | 69.134.46.75 | denodo.chtrse.com | Red",
         "Asset_ID": "ASSET-00000062 | Denodo | Denodo |  | 69.134.46.75 | denodo.chtrse.com",
         "Infra Zone": "VMware",
+        "Notes": "old denodo 5.5",
         "Platform Name": "Denodo",
         "Platform Name Link": [
-            "recfKqBI1skCDSNyh"
+            "rectZJOJCbFN6JhMY"
         ],
-        "Status": "Live",
+        "Security Zone": "Red",
+        "Status": "Pending Decomission",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recSeLkHIzjCKiHc3",
         "assetID": "ASSET-00000062",
