@@ -3,16 +3,20 @@
         "Asset FQDN": "austx-hydra-prod-03.chtrse.com",
         "Asset IP": "98.6.16.16",
         "Asset Name": "Hydra Prod",
-        "Asset_ID": "ASSET-00000078",
+        "Asset Search": "ASSET-00000078 | Hydra | Hydra Prod | Production | 98.6.16.16 | austx-hydra-prod-03.chtrse.com | Hydra Prod | 98.6.16.16 | austx-hydra-prod-03.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000078 | Hydra | Hydra Prod | Production | 98.6.16.16 | austx-hydra-prod-03.chtrse.com",
         "Datacenter": "Austin",
         "Elevated Credentials": "Yes",
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-28",
-        "Platform Name": "Hydra",
+        "Platform Name": [
+            "recZz63n9HttDw8oK"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec08EzUjv75CByNT",
+        "assetID": "ASSET-00000078",
         "rec_no": 78
     },
     {
@@ -20,93 +24,122 @@
         "Asset Hostname": "dev-deo-testbox",
         "Asset IP": "24.106.215.28",
         "Asset Name": "Sandbox",
-        "Asset_ID": "ASSET-00000075",
+        "Asset Search": "ASSET-00000075 | Sandbox | Sandbox | Development | 24.106.215.28 | dev-deo-testbox.chtrse.com | Sandbox | 24.106.215.28 | dev-deo-testbox.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000075 | Sandbox | Sandbox | Development | 24.106.215.28 | dev-deo-testbox.chtrse.com",
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": "Sandbox",
+        "Platform Name": [
+            "reca7oCO0k8zL1d0y"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec1VPwONyZtyzu0V",
+        "assetID": "ASSET-00000075",
         "rec_no": 75
     },
     {
         "Asset FQDN": "clboh-hadoop-data-03.chtrse.com",
         "Asset IP": "24.142.178.186",
         "Asset Name": "Hadoop Data",
-        "Asset_ID": "ASSET-00000035",
+        "Asset Search": "ASSET-00000035 | Hadoop | Hadoop Data | Production | 24.142.178.186 | clboh-hadoop-data-03.chtrse.com | Hadoop Data | 24.142.178.186 | clboh-hadoop-data-03.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000035 | Hadoop | Hadoop Data | Production | 24.142.178.186 | clboh-hadoop-data-03.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec1YN0FOSjcDSm2q",
+        "assetID": "ASSET-00000035",
         "rec_no": 35
     },
     {
         "Asset FQDN": "austx-stage-denodo-01.chtrse.com",
         "Asset IP": "71.78.96.21",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000054",
+        "Asset Search": "ASSET-00000054 | Denodo | Denodo | Development | 71.78.96.21 | austx-stage-denodo-01.chtrse.com | Denodo | 71.78.96.21 | austx-stage-denodo-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000054 | Denodo | Denodo | Development | 71.78.96.21 | austx-stage-denodo-01.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Development",
         "Infra Zone": "VMware",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec1k4kUJfoSHYpA9",
+        "assetID": "ASSET-00000054",
         "rec_no": 54
     },
     {
         "Asset FQDN": "austx-hadoop-data-01.chtrse.com",
         "Asset IP": "71.78.96.118",
         "Asset Name": "Hadoop Data",
-        "Asset_ID": "ASSET-00000023",
+        "Asset Search": "ASSET-00000023 | Hadoop | Hadoop Data | Production | 71.78.96.118 | austx-hadoop-data-01.chtrse.com | Hadoop Data | 71.78.96.118 | austx-hadoop-data-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000023 | Hadoop | Hadoop Data | Production | 71.78.96.118 | austx-hadoop-data-01.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec2FZWfcRlKNuLcJ",
+        "assetID": "ASSET-00000023",
         "rec_no": 23
     },
     {
         "Asset FQDN": "austx-lab-hadoop-02.dev.chtrse.com",
         "Asset IP": "97.105.228.122",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000004",
+        "Asset Search": "ASSET-00000004 | Hadoop | Hadoop | Development | 97.105.228.122 | austx-lab-hadoop-02.dev.chtrse.com | Hadoop | 97.105.228.122 | austx-lab-hadoop-02.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000004 | Hadoop | Hadoop | Development | 97.105.228.122 | austx-lab-hadoop-02.dev.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Development",
         "Last OS Update": "2021-08-09",
-        "Platform Name": "Hadoop Dev",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec3Vr2Wh6oNA3KoK",
+        "assetID": "ASSET-00000004",
         "rec_no": 4
     },
     {
         "Asset FQDN": "austx-hadoop-kafka-06.chtrse.com",
         "Asset IP": "71.78.96.125",
         "Asset Name": "Hadoop Kafka",
-        "Asset_ID": "ASSET-00000028",
+        "Asset Search": "ASSET-00000028 | Hadoop | Hadoop Kafka | Production | 71.78.96.125 | austx-hadoop-kafka-06.chtrse.com | Hadoop Kafka | 71.78.96.125 | austx-hadoop-kafka-06.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000028 | Hadoop | Hadoop Kafka | Production | 71.78.96.125 | austx-hadoop-kafka-06.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec3vwAELneiY5oBR",
+        "assetID": "ASSET-00000028",
         "rec_no": 28
     },
     {
         "Asset FQDN": "austx-hadoop-05.chtrse.com",
         "Asset IP": "50.84.225.207",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000012",
+        "Asset Search": "ASSET-00000012 | Hadoop | Hadoop | Production | 50.84.225.207 | austx-hadoop-05.chtrse.com | Hadoop | 50.84.225.207 | austx-hadoop-05.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000012 | Hadoop | Hadoop | Production | 50.84.225.207 | austx-hadoop-05.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec5aDfNjqNOVyfmT",
+        "assetID": "ASSET-00000012",
         "rec_no": 12
     },
     {
@@ -114,13 +147,18 @@
         "Asset Hostname": "austx-deo-kube-node-2",
         "Asset IP": "98.6.16.146",
         "Asset Name": "Openstack Prod Austin/Columbus Others",
-        "Asset_ID": "ASSET-00000091",
+        "Asset Search": "ASSET-00000091 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.146 | austx-deo-kube-node-2.chtrse.com | Openstack Prod Austin/Columbus Others | 98.6.16.146 | austx-deo-kube-node-2.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000091 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.146 | austx-deo-kube-node-2.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "Openstack",
+        "Platform Name": [
+            "rech923fxxRfIAYMg"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec6TzFbvRwbLgHeb",
+        "assetID": "ASSET-00000091",
         "rec_no": 91
     },
     {
@@ -128,27 +166,36 @@
         "Asset Hostname": "clboh-denodo-2",
         "Asset IP": "67.53.231.136",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000051",
+        "Asset Search": "ASSET-00000051 | Denodo | Denodo |  | 67.53.231.136 | clboh-denodo-2.chtrse.com | Denodo | 67.53.231.136 | clboh-denodo-2.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000051 | Denodo | Denodo |  | 67.53.231.136 | clboh-denodo-2.chtrse.com",
         "Datacenter": "Columbus",
         "Elevated Credentials": "Yes",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-08",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec7BStphRpqkJ5aC",
+        "assetID": "ASSET-00000051",
         "rec_no": 51
     },
     {
         "Asset FQDN": "clboh-hadoop-data-04.chtrse.com",
         "Asset IP": "24.142.178.187",
         "Asset Name": "Hadoop Data",
-        "Asset_ID": "ASSET-00000036",
+        "Asset Search": "ASSET-00000036 | Hadoop | Hadoop Data | Production | 24.142.178.187 | clboh-hadoop-data-04.chtrse.com | Hadoop Data | 24.142.178.187 | clboh-hadoop-data-04.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000036 | Hadoop | Hadoop Data | Production | 24.142.178.187 | clboh-hadoop-data-04.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec7YLQNzB6IzM4Vx",
+        "assetID": "ASSET-00000036",
         "rec_no": 36
     },
     {
@@ -156,53 +203,70 @@
         "Asset Hostname": "austx-surveyor-prod-01",
         "Asset IP": "98.6.16.175",
         "Asset Name": "Openstack Prod Austin/Columbus Others",
-        "Asset_ID": "ASSET-00000088",
+        "Asset Search": "ASSET-00000088 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.175 | austx-surveyor-prod-01.chtrse.com | Openstack Prod Austin/Columbus Others | 98.6.16.175 | austx-surveyor-prod-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000088 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.175 | austx-surveyor-prod-01.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "Openstack",
+        "Platform Name": [
+            "rech923fxxRfIAYMg"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec7jiUui6vffpebi",
+        "assetID": "ASSET-00000088",
         "rec_no": 88
     },
     {
         "Asset FQDN": "austx-lab-hadoop-04.dev.chtrse.com",
         "Asset IP": "97.105.228.124",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000006",
+        "Asset Search": "ASSET-00000006 | Hadoop | Hadoop | Development | 97.105.228.124 | austx-lab-hadoop-04.dev.chtrse.com | Hadoop | 97.105.228.124 | austx-lab-hadoop-04.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000006 | Hadoop | Hadoop | Development | 97.105.228.124 | austx-lab-hadoop-04.dev.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Development",
         "Last OS Update": "2021-08-12",
-        "Platform Name": "Hadoop Dev",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec7u5z1JB9J3WpS7",
+        "assetID": "ASSET-00000006",
         "rec_no": 6
     },
     {
         "Asset FQDN": "austx-hadoop-kafka-03.chtrse.com",
         "Asset IP": "71.78.96.117",
         "Asset Name": "Hadoop Kafka",
-        "Asset_ID": "ASSET-00000022",
+        "Asset Search": "ASSET-00000022 | Hadoop | Hadoop Kafka | Production | 71.78.96.117 | austx-hadoop-kafka-03.chtrse.com | Hadoop Kafka | 71.78.96.117 | austx-hadoop-kafka-03.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000022 | Hadoop | Hadoop Kafka | Production | 71.78.96.117 | austx-hadoop-kafka-03.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec8mcoqpm3yU0Tcc",
+        "assetID": "ASSET-00000022",
         "rec_no": 22
     },
     {
         "Asset FQDN": "austx-hadoop-07.chtrse.com",
         "Asset IP": "50.84.225.209",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000014",
+        "Asset Search": "ASSET-00000014 | Hadoop | Hadoop | Production | 50.84.225.209 | austx-hadoop-07.chtrse.com | Hadoop | 50.84.225.209 | austx-hadoop-07.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000014 | Hadoop | Hadoop | Production | 50.84.225.209 | austx-hadoop-07.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec9QlZTlZjPYA717",
+        "assetID": "ASSET-00000014",
         "rec_no": 14
     },
     {
@@ -210,53 +274,70 @@
         "Asset Hostname": "clboh-cache-deo-01",
         "Asset IP": "67.53.231.132",
         "Asset Name": "Openstack Prod Austin/Columbus Others",
-        "Asset_ID": "ASSET-00000086",
+        "Asset Search": "ASSET-00000086 | Openstack | Openstack Prod Austin/Columbus Others | Production | 67.53.231.132 | clboh-cache-deo-01.chtrse.com | Openstack Prod Austin/Columbus Others | 67.53.231.132 | clboh-cache-deo-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000086 | Openstack | Openstack Prod Austin/Columbus Others | Production | 67.53.231.132 | clboh-cache-deo-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
         "Infra Zone": "Openstack",
+        "Platform Name": [
+            "rech923fxxRfIAYMg"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recAZLI0z39pgFqLp",
+        "assetID": "ASSET-00000086",
         "rec_no": 86
     },
     {
         "Asset FQDN": "clboh-hadoop-kafka-03.chtrse.com",
         "Asset IP": "24.142.178.56",
         "Asset Name": "Hadoop Kafka",
-        "Asset_ID": "ASSET-00000044",
+        "Asset Search": "ASSET-00000044 | Hadoop | Hadoop Kafka | Production | 24.142.178.56 | clboh-hadoop-kafka-03.chtrse.com | Hadoop Kafka | 24.142.178.56 | clboh-hadoop-kafka-03.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000044 | Hadoop | Hadoop Kafka | Production | 24.142.178.56 | clboh-hadoop-kafka-03.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recBtPQOWcam9Jpmi",
+        "assetID": "ASSET-00000044",
         "rec_no": 44
     },
     {
         "Asset FQDN": "austx-hadoop-kafka-05.chtrse.com",
         "Asset IP": "71.78.96.124",
         "Asset Name": "Hadoop Kafka",
-        "Asset_ID": "ASSET-00000027",
+        "Asset Search": "ASSET-00000027 | Hadoop | Hadoop Kafka | Production | 71.78.96.124 | austx-hadoop-kafka-05.chtrse.com | Hadoop Kafka | 71.78.96.124 | austx-hadoop-kafka-05.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000027 | Hadoop | Hadoop Kafka | Production | 71.78.96.124 | austx-hadoop-kafka-05.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recCBuAJrlUp7LAg1",
+        "assetID": "ASSET-00000027",
         "rec_no": 27
     },
     {
         "Asset FQDN": "austx-lab-hadoop-client-01.dev.chtrse.com",
         "Asset IP": "97.105.228.120",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000002",
+        "Asset Search": "ASSET-00000002 | Hadoop | Hadoop | Development | 97.105.228.120 | austx-lab-hadoop-client-01.dev.chtrse.com | Hadoop | 97.105.228.120 | austx-lab-hadoop-client-01.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000002 | Hadoop | Hadoop | Development | 97.105.228.120 | austx-lab-hadoop-client-01.dev.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Development",
         "Last OS Update": "2018-11-29",
-        "Platform Name": "Hadoop Dev",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:22:19.000Z",
         "airtable_id": "recCblKrAKwDIJpGy",
+        "assetID": "ASSET-00000002",
         "rec_no": 2
     },
     {
@@ -264,146 +345,192 @@
         "Asset Hostname": "austx-deo-kube-master",
         "Asset IP": "98.6.16.44",
         "Asset Name": "Openstack Prod Austin/Columbus Others",
-        "Asset_ID": "ASSET-00000089",
+        "Asset Search": "ASSET-00000089 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.44 | austx-deo-kube-master.chtrse.com | Openstack Prod Austin/Columbus Others | 98.6.16.44 | austx-deo-kube-master.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000089 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.44 | austx-deo-kube-master.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "Openstack",
+        "Platform Name": [
+            "rech923fxxRfIAYMg"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recDG8yARYbnoSPHW",
+        "assetID": "ASSET-00000089",
         "rec_no": 89
     },
     {
         "Asset FQDN": "clboh-hydra-prod-02.chtrse.com",
         "Asset IP": "67.53.231.73",
         "Asset Name": "Hydra Prod",
-        "Asset_ID": "ASSET-00000080",
+        "Asset Search": "ASSET-00000080 | Hydra | Hydra Prod | Production | 67.53.231.73 | clboh-hydra-prod-02.chtrse.com | Hydra Prod | 67.53.231.73 | clboh-hydra-prod-02.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000080 | Hydra | Hydra Prod | Production | 67.53.231.73 | clboh-hydra-prod-02.chtrse.com",
         "Datacenter": "Columbus",
         "Elevated Credentials": "Yes",
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": "Hydra",
+        "Platform Name": [
+            "recZz63n9HttDw8oK"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recF9pkoK4sAMV4Dc",
+        "assetID": "ASSET-00000080",
         "rec_no": 80
     },
     {
         "Asset FQDN": "austx-hadoop-03.chtrse.com",
         "Asset IP": "50.84.225.205",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000010",
+        "Asset Search": "ASSET-00000010 | Hadoop | Hadoop | Production | 50.84.225.205 | austx-hadoop-03.chtrse.com | Hadoop | 50.84.225.205 | austx-hadoop-03.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000010 | Hadoop | Hadoop | Production | 50.84.225.205 | austx-hadoop-03.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recFTZw4EYhU9uJwy",
+        "assetID": "ASSET-00000010",
         "rec_no": 10
     },
     {
         "Asset FQDN": "clboh-hadoop-kafka-01.chtrse.com",
         "Asset IP": "24.142.178.54",
         "Asset Name": "Hadoop Kafka",
-        "Asset_ID": "ASSET-00000042",
+        "Asset Search": "ASSET-00000042 | Hadoop | Hadoop Kafka | Production | 24.142.178.54 | clboh-hadoop-kafka-01.chtrse.com | Hadoop Kafka | 24.142.178.54 | clboh-hadoop-kafka-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000042 | Hadoop | Hadoop Kafka | Production | 24.142.178.54 | clboh-hadoop-kafka-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recGG8zTy4C79l0vW",
+        "assetID": "ASSET-00000042",
         "rec_no": 42
     },
     {
         "Asset FQDN": "austx-prod-denodo-01.chtrse.com",
         "Asset IP": "71.78.96.22",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000060",
+        "Asset Search": "ASSET-00000060 | Denodo | Denodo | Production | 71.78.96.22 | austx-prod-denodo-01.chtrse.com | Denodo | 71.78.96.22 | austx-prod-denodo-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000060 | Denodo | Denodo | Production | 71.78.96.22 | austx-prod-denodo-01.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "VMware",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recGGroJ17MBugOMC",
+        "assetID": "ASSET-00000060",
         "rec_no": 60
     },
     {
         "Asset FQDN": "austx-hadoop-04.chtrse.com",
         "Asset IP": "50.84.225.206",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000011",
+        "Asset Search": "ASSET-00000011 | Hadoop | Hadoop | Production | 50.84.225.206 | austx-hadoop-04.chtrse.com | Hadoop | 50.84.225.206 | austx-hadoop-04.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000011 | Hadoop | Hadoop | Production | 50.84.225.206 | austx-hadoop-04.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recGJYKKGujlu88Xq",
+        "assetID": "ASSET-00000011",
         "rec_no": 11
     },
     {
         "Asset FQDN": "austx-hadoop-edge-01.chtrse.com",
         "Asset IP": "71.78.96.114",
         "Asset Name": "Hadoop Edge",
-        "Asset_ID": "ASSET-00000019",
+        "Asset Search": "ASSET-00000019 | Hadoop | Hadoop Edge | Production | 71.78.96.114 | austx-hadoop-edge-01.chtrse.com | Hadoop Edge | 71.78.96.114 | austx-hadoop-edge-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000019 | Hadoop | Hadoop Edge | Production | 71.78.96.114 | austx-hadoop-edge-01.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recGsSrlbPAS8nqHH",
+        "assetID": "ASSET-00000019",
         "rec_no": 19
     },
     {
         "Asset FQDN": "clboh-hadoop-04.chtrse.com",
         "Asset IP": "24.142.178.170",
         "Asset Name": "Hadoop DR",
-        "Asset_ID": "ASSET-00000032",
+        "Asset Search": "ASSET-00000032 | Hadoop | Hadoop DR | Production | 24.142.178.170 | clboh-hadoop-04.chtrse.com | Hadoop DR | 24.142.178.170 | clboh-hadoop-04.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000032 | Hadoop | Hadoop DR | Production | 24.142.178.170 | clboh-hadoop-04.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recGtwMtnJ2XGVM8k",
+        "assetID": "ASSET-00000032",
         "rec_no": 32
     },
     {
         "Asset FQDN": "austx-hadoop-kafka-02.chtrse.com",
         "Asset IP": "71.78.96.116",
         "Asset Name": "Hadoop Kafka",
-        "Asset_ID": "ASSET-00000021",
+        "Asset Search": "ASSET-00000021 | Hadoop | Hadoop Kafka | Production | 71.78.96.116 | austx-hadoop-kafka-02.chtrse.com | Hadoop Kafka | 71.78.96.116 | austx-hadoop-kafka-02.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000021 | Hadoop | Hadoop Kafka | Production | 71.78.96.116 | austx-hadoop-kafka-02.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recGz0iaEaxUL7KCD",
+        "assetID": "ASSET-00000021",
         "rec_no": 21
     },
     {
         "Asset FQDN": "clboh-hadoop-master-01.chtrse.com",
         "Asset IP": "24.142.178.42",
         "Asset Name": "Hadoop Master",
-        "Asset_ID": "ASSET-00000038",
+        "Asset Search": "ASSET-00000038 | Hadoop | Hadoop Master | Production | 24.142.178.42 | clboh-hadoop-master-01.chtrse.com | Hadoop Master | 24.142.178.42 | clboh-hadoop-master-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000038 | Hadoop | Hadoop Master | Production | 24.142.178.42 | clboh-hadoop-master-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recHSVTaB1tHeiAbX",
+        "assetID": "ASSET-00000038",
         "rec_no": 38
     },
     {
         "Asset FQDN": "austx-hadoop-data-02.chtrse.com",
         "Asset IP": "71.78.96.119",
         "Asset Name": "Hadoop Data",
-        "Asset_ID": "ASSET-00000024",
+        "Asset Search": "ASSET-00000024 | Hadoop | Hadoop Data | Production | 71.78.96.119 | austx-hadoop-data-02.chtrse.com | Hadoop Data | 71.78.96.119 | austx-hadoop-data-02.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000024 | Hadoop | Hadoop Data | Production | 71.78.96.119 | austx-hadoop-data-02.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recI2brABtr2DIEnp",
+        "assetID": "ASSET-00000024",
         "rec_no": 24
     },
     {
@@ -411,42 +538,54 @@
         "Asset Hostname": "dev-deo-hydra-3",
         "Asset IP": "24.106.215.187",
         "Asset Name": "Hydra",
-        "Asset_ID": "ASSET-00000072",
+        "Asset Search": "ASSET-00000072 | Hydra | Hydra | Development | 24.106.215.187 | dev-deo-hydra-3.chtrse.com | Hydra | 24.106.215.187 | dev-deo-hydra-3.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000072 | Hydra | Hydra | Development | 24.106.215.187 | dev-deo-hydra-3.chtrse.com",
         "Elevated Credentials": "Yes",
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": "Hydra",
+        "Platform Name": [
+            "recZz63n9HttDw8oK"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recJ29HnitIsChrd3",
+        "assetID": "ASSET-00000072",
         "rec_no": 72
     },
     {
         "Asset FQDN": "dev-deo-talend-admin.dev.chtrse.com",
         "Asset IP": "24.106.215.101",
         "Asset Name": "Talend Admin",
-        "Asset_ID": "ASSET-00000069",
+        "Asset Search": "ASSET-00000069 | Talend | Talend Admin | Development | 24.106.215.101 | dev-deo-talend-admin.dev.chtrse.com | Talend Admin | 24.106.215.101 | dev-deo-talend-admin.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000069 | Talend | Talend Admin | Development | 24.106.215.101 | dev-deo-talend-admin.dev.chtrse.com",
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-02-04",
-        "Platform Name": "Talend",
+        "Platform Name": [
+            "recUhvrt7DJaTIEE4"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recJSXvloFEnQzyf3",
+        "assetID": "ASSET-00000069",
         "rec_no": 69
     },
     {
         "Asset FQDN": "clboh-hadoop-kafka-02.chtrse.com",
         "Asset IP": "24.142.178.55",
         "Asset Name": "Hadoop Kafka",
-        "Asset_ID": "ASSET-00000043",
+        "Asset Search": "ASSET-00000043 | Hadoop | Hadoop Kafka | Production | 24.142.178.55 | clboh-hadoop-kafka-02.chtrse.com | Hadoop Kafka | 24.142.178.55 | clboh-hadoop-kafka-02.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000043 | Hadoop | Hadoop Kafka | Production | 24.142.178.55 | clboh-hadoop-kafka-02.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recJkHafE0FbjHkBT",
+        "assetID": "ASSET-00000043",
         "rec_no": 43
     },
     {
@@ -454,147 +593,195 @@
         "Asset Hostname": "austx-neo4j-01",
         "Asset IP": "98.6.16.100",
         "Asset Name": "Openstack Prod Austin/Columbus Others",
-        "Asset_ID": "ASSET-00000083",
+        "Asset Search": "ASSET-00000083 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.100 | austx-neo4j-01.chtrse.com | Openstack Prod Austin/Columbus Others | 98.6.16.100 | austx-neo4j-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000083 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.100 | austx-neo4j-01.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-03-17",
+        "Platform Name": [
+            "rech923fxxRfIAYMg"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recLLbHLeG9kZWNPc",
+        "assetID": "ASSET-00000083",
         "rec_no": 83
     },
     {
         "Asset FQDN": "austx-denodo-02.chtrse.com ",
         "Asset IP": "98.6.16.125",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000049",
+        "Asset Search": "ASSET-00000049 | Denodo | Denodo |  | 98.6.16.125 | austx-denodo-02.chtrse.com  | Denodo | 98.6.16.125 | austx-denodo-02.chtrse.com  | Green",
+        "Asset_ID": "ASSET-00000049 | Denodo | Denodo |  | 98.6.16.125 | austx-denodo-02.chtrse.com ",
         "Datacenter": "Austin",
         "Elevated Credentials": "Yes",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-08",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recLfhDCC1ctBINuF",
+        "assetID": "ASSET-00000049",
         "rec_no": 49
     },
     {
         "Asset FQDN": "clboh-hadoop-kafka-04.chtrse.com",
         "Asset IP": "24.142.178.85",
         "Asset Name": "Hadoop Kafka",
-        "Asset_ID": "ASSET-00000045",
+        "Asset Search": "ASSET-00000045 | Hadoop | Hadoop Kafka | Production | 24.142.178.85 | clboh-hadoop-kafka-04.chtrse.com | Hadoop Kafka | 24.142.178.85 | clboh-hadoop-kafka-04.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000045 | Hadoop | Hadoop Kafka | Production | 24.142.178.85 | clboh-hadoop-kafka-04.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recMOZYvlELbQGoJW",
+        "assetID": "ASSET-00000045",
         "rec_no": 45
     },
     {
         "Asset FQDN": "austx-hadoop-01.chtrse.com",
         "Asset IP": "50.84.225.90",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000016",
+        "Asset Search": "ASSET-00000016 | Hadoop | Hadoop | Production | 50.84.225.90 | austx-hadoop-01.chtrse.com | Hadoop | 50.84.225.90 | austx-hadoop-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000016 | Hadoop | Hadoop | Production | 50.84.225.90 | austx-hadoop-01.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recMo6pIIgskzVOoS",
+        "assetID": "ASSET-00000016",
         "rec_no": 16
     },
     {
         "Asset FQDN": "clboh-hadoop-data-01.chtrse.com",
         "Asset IP": "24.142.178.184",
         "Asset Name": "Hadoop Data",
-        "Asset_ID": "ASSET-00000033",
+        "Asset Search": "ASSET-00000033 | Hadoop | Hadoop Data | Production | 24.142.178.184 | clboh-hadoop-data-01.chtrse.com | Hadoop Data | 24.142.178.184 | clboh-hadoop-data-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000033 | Hadoop | Hadoop Data | Production | 24.142.178.184 | clboh-hadoop-data-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recNGzlEwDz1MnNpc",
+        "assetID": "ASSET-00000033",
         "rec_no": 33
     },
     {
         "Asset FQDN": "clboh-hadoop-edge-01.chtrse.com",
         "Asset IP": "24.142.178.46",
         "Asset Name": "Hadoop Edge",
-        "Asset_ID": "ASSET-00000041",
+        "Asset Search": "ASSET-00000041 | Hadoop | Hadoop Edge | Production | 24.142.178.46 | clboh-hadoop-edge-01.chtrse.com | Hadoop Edge | 24.142.178.46 | clboh-hadoop-edge-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000041 | Hadoop | Hadoop Edge | Production | 24.142.178.46 | clboh-hadoop-edge-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recOL2Bal6O3thFKU",
+        "assetID": "ASSET-00000041",
         "rec_no": 41
     },
     {
         "Asset FQDN": "clboh-prod-denodo-01.chtrse.com",
         "Asset IP": "24.142.178.78",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000057",
+        "Asset Search": "ASSET-00000057 | Denodo | Denodo | Production | 24.142.178.78 | clboh-prod-denodo-01.chtrse.com | Denodo | 24.142.178.78 | clboh-prod-denodo-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000057 | Denodo | Denodo | Production | 24.142.178.78 | clboh-prod-denodo-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
         "Infra Zone": "VMware",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recOet5mccTDs7yU2",
+        "assetID": "ASSET-00000057",
         "rec_no": 57
     },
     {
         "Asset FQDN": "clboh-hadoop-03.chtrse.com",
         "Asset IP": "24.142.178.169",
         "Asset Name": "Hadoop DR",
-        "Asset_ID": "ASSET-00000031",
+        "Asset Search": "ASSET-00000031 | Hadoop | Hadoop DR | Production | 24.142.178.169 | clboh-hadoop-03.chtrse.com | Hadoop DR | 24.142.178.169 | clboh-hadoop-03.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000031 | Hadoop | Hadoop DR | Production | 24.142.178.169 | clboh-hadoop-03.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recOnGZO5METZtAY2",
+        "assetID": "ASSET-00000031",
         "rec_no": 31
     },
     {
         "Asset FQDN": "austx-lab-hadoop-05.dev.chtrse.com",
         "Asset IP": "97.105.228.125",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000007",
+        "Asset Search": "ASSET-00000007 | Hadoop | Hadoop | Development | 97.105.228.125 | austx-lab-hadoop-05.dev.chtrse.com | Hadoop | 97.105.228.125 | austx-lab-hadoop-05.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000007 | Hadoop | Hadoop | Development | 97.105.228.125 | austx-lab-hadoop-05.dev.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Development",
         "Last OS Update": "2021-08-16",
-        "Platform Name": "Hadoop Dev",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recOx1cSSPMzZN9FG",
+        "assetID": "ASSET-00000007",
         "rec_no": 7
     },
     {
         "Asset FQDN": "austx-hadoop-data-03.chtrse.com",
         "Asset IP": "71.78.96.120",
         "Asset Name": "Hadoop Data",
-        "Asset_ID": "ASSET-00000025",
+        "Asset Search": "ASSET-00000025 | Hadoop | Hadoop Data | Production | 71.78.96.120 | austx-hadoop-data-03.chtrse.com | Hadoop Data | 71.78.96.120 | austx-hadoop-data-03.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000025 | Hadoop | Hadoop Data | Production | 71.78.96.120 | austx-hadoop-data-03.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recPwLyUxAFaYAhPD",
+        "assetID": "ASSET-00000025",
         "rec_no": 25
     },
     {
         "Asset FQDN": "austx-denodo-01.chtrse.com",
         "Asset IP": "98.6.16.113",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000048",
+        "Asset Search": "ASSET-00000048 | Denodo | Denodo |  | 98.6.16.113 | austx-denodo-01.chtrse.com | Denodo | 98.6.16.113 | austx-denodo-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000048 | Denodo | Denodo |  | 98.6.16.113 | austx-denodo-01.chtrse.com",
         "Datacenter": "Austin",
         "Elevated Credentials": "Yes",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-08",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recQsTwFlZW9KbiCm",
+        "assetID": "ASSET-00000048",
         "rec_no": 48
     },
     {
@@ -602,27 +789,36 @@
         "Asset Hostname": "dev-deo-granite-app",
         "Asset IP": "24.106.215.190",
         "Asset Name": "App",
-        "Asset_ID": "ASSET-00000073",
+        "Asset Search": "ASSET-00000073 | Granite | App | Development | 24.106.215.190 | dev-deo-granite-app.chtrse.com | App | 24.106.215.190 | dev-deo-granite-app.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000073 | Granite | App | Development | 24.106.215.190 | dev-deo-granite-app.chtrse.com",
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-07-21",
-        "Platform Name": "Granite",
+        "Platform Name": [
+            "recxYT9wZvKvlg0aV"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recRNe84ifzmlo2w3",
+        "assetID": "ASSET-00000073",
         "rec_no": 73
     },
     {
         "Asset FQDN": "dev-deo-server-1.dev.chtrse.com",
         "Asset IP": "24.106.215.89",
         "Asset Name": "Openstack Dev",
-        "Asset_ID": "ASSET-00000063",
+        "Asset Search": "ASSET-00000063 | Openstack | Openstack Dev | Development | 24.106.215.89 | dev-deo-server-1.dev.chtrse.com | Openstack Dev | 24.106.215.89 | dev-deo-server-1.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000063 | Openstack | Openstack Dev | Development | 24.106.215.89 | dev-deo-server-1.dev.chtrse.com",
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-08",
+        "Platform Name": [
+            "rech923fxxRfIAYMg"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recRPOLeSXBkggTzo",
+        "assetID": "ASSET-00000063",
         "rec_no": 63
     },
     {
@@ -630,13 +826,18 @@
         "Asset Hostname": "austx-granite-dg",
         "Asset IP": "98.6.16.75",
         "Asset Name": "Openstack Prod Austin/Columbus Others",
-        "Asset_ID": "ASSET-00000082",
+        "Asset Search": "ASSET-00000082 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.75 | austx-granite-dg.chtrse.com | Openstack Prod Austin/Columbus Others | 98.6.16.75 | austx-granite-dg.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000082 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.75 | austx-granite-dg.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "Openstack",
+        "Platform Name": [
+            "rech923fxxRfIAYMg"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recRUxMyWGOIfChbO",
+        "assetID": "ASSET-00000082",
         "rec_no": 82
     },
     {
@@ -644,93 +845,123 @@
         "Asset Hostname": "clboh-neo4j-01",
         "Asset IP": "67.53.231.242",
         "Asset Name": "Openstack Prod Austin/Columbus Others",
-        "Asset_ID": "ASSET-00000085",
+        "Asset Search": "ASSET-00000085 | Openstack | Openstack Prod Austin/Columbus Others | Production | 67.53.231.242 | clboh-neo4j-01.chtrse.com | Openstack Prod Austin/Columbus Others | 67.53.231.242 | clboh-neo4j-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000085 | Openstack | Openstack Prod Austin/Columbus Others | Production | 67.53.231.242 | clboh-neo4j-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-03-17",
+        "Platform Name": [
+            "rech923fxxRfIAYMg"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recS590YyoJfOSe47",
+        "assetID": "ASSET-00000085",
         "rec_no": 85
     },
     {
         "Asset FQDN": "denodo.chtrse.com",
         "Asset IP": "69.134.46.75",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000062",
+        "Asset Search": "ASSET-00000062 | Denodo | Denodo |  | 69.134.46.75 | denodo.chtrse.com | Denodo | 69.134.46.75 | denodo.chtrse.com | ",
+        "Asset_ID": "ASSET-00000062 | Denodo | Denodo |  | 69.134.46.75 | denodo.chtrse.com",
         "Infra Zone": "VMware",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recSeLkHIzjCKiHc3",
+        "assetID": "ASSET-00000062",
         "rec_no": 62
     },
     {
         "Asset FQDN": "austx-hydra-prod-01.chtrse.com",
         "Asset IP": "98.6.16.196",
         "Asset Name": "Hydra Prod",
-        "Asset_ID": "ASSET-00000076",
+        "Asset Search": "ASSET-00000076 | Hydra | Hydra Prod | Production | 98.6.16.196 | austx-hydra-prod-01.chtrse.com | Hydra Prod | 98.6.16.196 | austx-hydra-prod-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000076 | Hydra | Hydra Prod | Production | 98.6.16.196 | austx-hydra-prod-01.chtrse.com",
         "Datacenter": "Austin",
         "Elevated Credentials": "Yes",
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-28",
-        "Platform Name": "Hydra",
+        "Platform Name": [
+            "recZz63n9HttDw8oK"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recTKxscx4TEItTXQ",
+        "assetID": "ASSET-00000076",
         "rec_no": 76
     },
     {
         "Asset FQDN": "dev-deo-umbrella.dev.lb.chtrse.com",
         "Asset IP": "24.106.215.249",
         "Asset Name": "API Umbrella",
-        "Asset_ID": "ASSET-00000064",
+        "Asset Search": "ASSET-00000064 | API Umbrella | API Umbrella | Development | 24.106.215.249 | dev-deo-umbrella.dev.lb.chtrse.com | API Umbrella | 24.106.215.249 | dev-deo-umbrella.dev.lb.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000064 | API Umbrella | API Umbrella | Development | 24.106.215.249 | dev-deo-umbrella.dev.lb.chtrse.com",
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-03-17",
-        "Platform Name": "API Umbrella",
+        "Platform Name": [
+            "recrk0ubqOUTjZMbu"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recTyHDf9SrwsDVOg",
+        "assetID": "ASSET-00000064",
         "rec_no": 64
     },
     {
         "Asset FQDN": "clboh-hadoop-data-02.chtrse.com",
         "Asset IP": "24.142.178.185",
         "Asset Name": "Hadoop Data",
-        "Asset_ID": "ASSET-00000034",
+        "Asset Search": "ASSET-00000034 | Hadoop | Hadoop Data | Production | 24.142.178.185 | clboh-hadoop-data-02.chtrse.com | Hadoop Data | 24.142.178.185 | clboh-hadoop-data-02.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000034 | Hadoop | Hadoop Data | Production | 24.142.178.185 | clboh-hadoop-data-02.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recU2VzYwOElRNBQq",
+        "assetID": "ASSET-00000034",
         "rec_no": 34
     },
     {
         "Asset FQDN": "austx-hadoop-02.chtrse.com",
         "Asset IP": "50.84.225.204",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000009",
+        "Asset Search": "ASSET-00000009 | Hadoop | Hadoop | Production | 50.84.225.204 | austx-hadoop-02.chtrse.com | Hadoop | 50.84.225.204 | austx-hadoop-02.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000009 | Hadoop | Hadoop | Production | 50.84.225.204 | austx-hadoop-02.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recV1WBIME7uPJAVT",
+        "assetID": "ASSET-00000009",
         "rec_no": 9
     },
     {
         "Asset FQDN": "austx-hadoop-kafka-01.chtrse.com",
         "Asset IP": "71.78.96.115",
         "Asset Name": "Hadoop Kafka",
-        "Asset_ID": "ASSET-00000020",
+        "Asset Search": "ASSET-00000020 | Hadoop | Hadoop Kafka | Production | 71.78.96.115 | austx-hadoop-kafka-01.chtrse.com | Hadoop Kafka | 71.78.96.115 | austx-hadoop-kafka-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000020 | Hadoop | Hadoop Kafka | Production | 71.78.96.115 | austx-hadoop-kafka-01.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recVZjkII2VrhYw61",
+        "assetID": "ASSET-00000020",
         "rec_no": 20
     },
     {
@@ -738,55 +969,72 @@
         "Asset Hostname": "clboh-dremio-01",
         "Asset IP": "67.53.231.128",
         "Asset Name": "Openstack Prod Austin/Columbus Others",
-        "Asset_ID": "ASSET-00000084",
+        "Asset Search": "ASSET-00000084 | Openstack | Openstack Prod Austin/Columbus Others | Production | 67.53.231.128 | clboh-dremio-01.chtrse.com | Openstack Prod Austin/Columbus Others | 67.53.231.128 | clboh-dremio-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000084 | Openstack | Openstack Prod Austin/Columbus Others | Production | 67.53.231.128 | clboh-dremio-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
         "Infra Zone": "Openstack",
+        "Platform Name": [
+            "rech923fxxRfIAYMg"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recW6a5ivmNpW0exJ",
+        "assetID": "ASSET-00000084",
         "rec_no": 84
     },
     {
         "Asset FQDN": "austx-hadoop-06.chtrse.com",
         "Asset IP": "50.84.225.208",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000013",
+        "Asset Search": "ASSET-00000013 | Hadoop | Hadoop | Production | 50.84.225.208 | austx-hadoop-06.chtrse.com | Hadoop | 50.84.225.208 | austx-hadoop-06.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000013 | Hadoop | Hadoop | Production | 50.84.225.208 | austx-hadoop-06.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recWFy8EZKu1g1I51",
+        "assetID": "ASSET-00000013",
         "rec_no": 13
     },
     {
         "Asset FQDN": "austx-lab-hadoop-06.dev.chtrse.com",
         "Asset IP": "97.105.228.126",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000008",
+        "Asset Search": "ASSET-00000008 | Hadoop | Hadoop | Development | 97.105.228.126 | austx-lab-hadoop-06.dev.chtrse.com | Hadoop | 97.105.228.126 | austx-lab-hadoop-06.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000008 | Hadoop | Hadoop | Development | 97.105.228.126 | austx-lab-hadoop-06.dev.chtrse.com",
         "Datacenter": "Austin",
         "Elevated Credentials": "Yes",
         "Environment": "Development",
         "Last OS Update": "2021-04-06",
-        "Platform Name": "Hadoop Dev",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recWt3TfSvm3kkDFi",
+        "assetID": "ASSET-00000008",
         "rec_no": 8
     },
     {
         "Asset FQDN": "austx-lab-hadoop-manager-01.dev.chtrse.com",
         "Asset IP": "97.105.228.119",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000001",
+        "Asset Search": "ASSET-00000001 | Hadoop | Hadoop | Development | 97.105.228.119 | austx-lab-hadoop-manager-01.dev.chtrse.com | Hadoop | 97.105.228.119 | austx-lab-hadoop-manager-01.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000001 | Hadoop | Hadoop | Development | 97.105.228.119 | austx-lab-hadoop-manager-01.dev.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Development",
         "Last OS Update": "2019-07-29",
-        "Platform Name": "Hadoop Dev",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:22:19.000Z",
         "airtable_id": "recYBx2SHzjdYcFsV",
+        "assetID": "ASSET-00000001",
         "local_user": [
             "recYi77nE7QDNtrpf",
             "recyk6mCWIQXaievz",
@@ -815,27 +1063,36 @@
         "Asset Hostname": "clboh-denodo-sm-03",
         "Asset IP": "67.53.231.173",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000050",
+        "Asset Search": "ASSET-00000050 | Denodo | Denodo |  | 67.53.231.173 | clboh-denodo-sm-03.chtrse.com | Denodo | 67.53.231.173 | clboh-denodo-sm-03.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000050 | Denodo | Denodo |  | 67.53.231.173 | clboh-denodo-sm-03.chtrse.com",
         "Datacenter": "Columbus",
         "Elevated Credentials": "Yes",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-08",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recaBIjRwuvmntMkh",
+        "assetID": "ASSET-00000050",
         "rec_no": 50
     },
     {
         "Asset FQDN": "clboh-hadoop-master-03.chtrse.com",
         "Asset IP": "24.142.178.44",
         "Asset Name": "Hadoop Master",
-        "Asset_ID": "ASSET-00000040",
+        "Asset Search": "ASSET-00000040 | Hadoop | Hadoop Master | Production | 24.142.178.44 | clboh-hadoop-master-03.chtrse.com | Hadoop Master | 24.142.178.44 | clboh-hadoop-master-03.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000040 | Hadoop | Hadoop Master | Production | 24.142.178.44 | clboh-hadoop-master-03.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recaQg5Z2S9ZUGbSo",
+        "assetID": "ASSET-00000040",
         "rec_no": 40
     },
     {
@@ -843,45 +1100,57 @@
         "Asset Hostname": "dev-deo-hydra-2",
         "Asset IP": "24.106.215.183",
         "Asset Name": "Hydra",
-        "Asset_ID": "ASSET-00000071",
+        "Asset Search": "ASSET-00000071 | Hydra | Hydra | Development | 24.106.215.183 | dev-deo-hydra-2.chtrse.com | Hydra | 24.106.215.183 | dev-deo-hydra-2.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000071 | Hydra | Hydra | Development | 24.106.215.183 | dev-deo-hydra-2.chtrse.com",
         "Elevated Credentials": "Yes",
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": "Hydra",
+        "Platform Name": [
+            "recZz63n9HttDw8oK"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recb7Gl5URVAZzMgC",
+        "assetID": "ASSET-00000071",
         "rec_no": 71
     },
     {
         "Asset FQDN": "austx-lab-hadoop-03.dev.chtrse.com",
         "Asset IP": "97.105.228.123",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000005",
+        "Asset Search": "ASSET-00000005 | Hadoop | Hadoop | Development | 97.105.228.123 | austx-lab-hadoop-03.dev.chtrse.com | Hadoop | 97.105.228.123 | austx-lab-hadoop-03.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000005 | Hadoop | Hadoop | Development | 97.105.228.123 | austx-lab-hadoop-03.dev.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Development",
         "Last OS Update": "2021-08-09",
-        "Platform Name": "Hadoop Dev",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "reccB4zewmeZHRch3",
+        "assetID": "ASSET-00000005",
         "rec_no": 5
     },
     {
         "Asset FQDN": "clboh-hydra-prod-03.chtrse.com",
         "Asset IP": "67.53.231.125",
         "Asset Name": "Hydra Prod",
-        "Asset_ID": "ASSET-00000081",
+        "Asset Search": "ASSET-00000081 | Hydra | Hydra Prod | Production | 67.53.231.125 | clboh-hydra-prod-03.chtrse.com | Hydra Prod | 67.53.231.125 | clboh-hydra-prod-03.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000081 | Hydra | Hydra Prod | Production | 67.53.231.125 | clboh-hydra-prod-03.chtrse.com",
         "Datacenter": "Columbus",
         "Elevated Credentials": "Yes",
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": "Hydra",
+        "Platform Name": [
+            "recZz63n9HttDw8oK"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recctuXe3zbVzAmJ9",
+        "assetID": "ASSET-00000081",
         "rec_no": 81
     },
     {
@@ -889,29 +1158,38 @@
         "Asset Hostname": "austx-deo-kube-node-1",
         "Asset IP": "98.6.16.80",
         "Asset Name": "Openstack Prod Austin/Columbus Others",
-        "Asset_ID": "ASSET-00000090",
+        "Asset Search": "ASSET-00000090 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.80 | austx-deo-kube-node-1.chtrse.com | Openstack Prod Austin/Columbus Others | 98.6.16.80 | austx-deo-kube-node-1.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000090 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.80 | austx-deo-kube-node-1.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "Openstack",
+        "Platform Name": [
+            "rech923fxxRfIAYMg"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "receNK2AYGJN66d30",
+        "assetID": "ASSET-00000090",
         "rec_no": 90
     },
     {
         "Asset FQDN": "austx-hydra-prod-02.chtrse.com",
         "Asset IP": "98.6.16.169",
         "Asset Name": "Hydra Prod",
-        "Asset_ID": "ASSET-00000077",
+        "Asset Search": "ASSET-00000077 | Hydra | Hydra Prod | Production | 98.6.16.169 | austx-hydra-prod-02.chtrse.com | Hydra Prod | 98.6.16.169 | austx-hydra-prod-02.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000077 | Hydra | Hydra Prod | Production | 98.6.16.169 | austx-hydra-prod-02.chtrse.com",
         "Datacenter": "Austin",
         "Elevated Credentials": "Yes",
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-28",
-        "Platform Name": "Hydra",
+        "Platform Name": [
+            "recZz63n9HttDw8oK"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recfEJGpFzrjKsBmS",
+        "assetID": "ASSET-00000077",
         "rec_no": 77
     },
     {
@@ -919,40 +1197,53 @@
         "Asset Hostname": "dev-deo-granite-db",
         "Asset IP": "24.106.215.166",
         "Asset Name": "Database",
-        "Asset_ID": "ASSET-00000074",
+        "Asset Search": "ASSET-00000074 | Granite | Database | Development | 24.106.215.166 | dev-deo-granite-db.chtrse.com | Database | 24.106.215.166 | dev-deo-granite-db.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000074 | Granite | Database | Development | 24.106.215.166 | dev-deo-granite-db.chtrse.com",
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-07-21",
-        "Platform Name": "Granite",
+        "Platform Name": [
+            "recxYT9wZvKvlg0aV"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recfMDSyrD3XzSOsU",
+        "assetID": "ASSET-00000074",
         "rec_no": 74
     },
     {
         "Asset FQDN": "clboh-hadoop-master-02.chtrse.com",
         "Asset IP": "24.142.178.43",
         "Asset Name": "Hadoop Master",
-        "Asset_ID": "ASSET-00000039",
+        "Asset Search": "ASSET-00000039 | Hadoop | Hadoop Master | Production | 24.142.178.43 | clboh-hadoop-master-02.chtrse.com | Hadoop Master | 24.142.178.43 | clboh-hadoop-master-02.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000039 | Hadoop | Hadoop Master | Production | 24.142.178.43 | clboh-hadoop-master-02.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recfd9GwBXqtjQjJw",
+        "assetID": "ASSET-00000039",
         "rec_no": 39
     },
     {
         "Asset FQDN": "clboh-stage-denodo-01.chtrse.com",
         "Asset IP": "24.142.178.77",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000059",
+        "Asset Search": "ASSET-00000059 | Denodo | Denodo | Development | 24.142.178.77 | clboh-stage-denodo-01.chtrse.com | Denodo | 24.142.178.77 | clboh-stage-denodo-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000059 | Denodo | Denodo | Development | 24.142.178.77 | clboh-stage-denodo-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Development",
         "Infra Zone": "VMware",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recfrANjFK56VCVen",
+        "assetID": "ASSET-00000059",
         "rec_no": 59
     },
     {
@@ -960,178 +1251,234 @@
         "Asset Hostname": "clboh-denodo-01",
         "Asset IP": "67.53.231.70",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000052",
+        "Asset Search": "ASSET-00000052 | Denodo | Denodo |  | 67.53.231.70 | clboh-denodo-01.chtrse.com | Denodo | 67.53.231.70 | clboh-denodo-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000052 | Denodo | Denodo |  | 67.53.231.70 | clboh-denodo-01.chtrse.com",
         "Datacenter": "Columbus",
         "Elevated Credentials": "Yes",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-08",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rech5jx738KtP0kVC",
+        "assetID": "ASSET-00000052",
         "rec_no": 52
     },
     {
         "Asset FQDN": "austx-lab-hadoop-01.dev.chtrse.com",
         "Asset IP": "97.105.228.121",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000003",
+        "Asset Search": "ASSET-00000003 | Hadoop | Hadoop | Development | 97.105.228.121 | austx-lab-hadoop-01.dev.chtrse.com | Hadoop | 97.105.228.121 | austx-lab-hadoop-01.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000003 | Hadoop | Hadoop | Development | 97.105.228.121 | austx-lab-hadoop-01.dev.chtrse.com",
         "Datacenter": "Austin",
         "Elevated Credentials": "Yes",
         "Environment": "Development",
         "Last OS Update": "2021-04-06",
-        "Platform Name": "Hadoop Dev",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:22:19.000Z",
         "airtable_id": "rechkEXBpW4YmfDpo",
+        "assetID": "ASSET-00000003",
         "rec_no": 3
     },
     {
         "Asset FQDN": "austx-hadoop-08.chtrse.com",
         "Asset IP": "50.84.225.210",
         "Asset Name": "Hadoop",
-        "Asset_ID": "ASSET-00000015",
+        "Asset Search": "ASSET-00000015 | Hadoop | Hadoop | Production | 50.84.225.210 | austx-hadoop-08.chtrse.com | Hadoop | 50.84.225.210 | austx-hadoop-08.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000015 | Hadoop | Hadoop | Production | 50.84.225.210 | austx-hadoop-08.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recjohkNQY9UWpqRF",
+        "assetID": "ASSET-00000015",
         "rec_no": 15
     },
     {
         "Asset FQDN": "clboh-prod-denodo-02.chtrse.com",
         "Asset IP": "24.142.178.97",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000058",
+        "Asset Search": "ASSET-00000058 | Denodo | Denodo | Production | 24.142.178.97 | clboh-prod-denodo-02.chtrse.com | Denodo | 24.142.178.97 | clboh-prod-denodo-02.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000058 | Denodo | Denodo | Production | 24.142.178.97 | clboh-prod-denodo-02.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
         "Infra Zone": "VMware",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recjpIfanGgZtgKmU",
+        "assetID": "ASSET-00000058",
         "rec_no": 58
     },
     {
         "Asset FQDN": "clboh-hadoop-01.chtrse.com",
         "Asset IP": "24.142.178.167",
         "Asset Name": "Hadoop DR",
-        "Asset_ID": "ASSET-00000029",
+        "Asset Search": "ASSET-00000029 | Hadoop | Hadoop DR | Production | 24.142.178.167 | clboh-hadoop-01.chtrse.com | Hadoop DR | 24.142.178.167 | clboh-hadoop-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000029 | Hadoop | Hadoop DR | Production | 24.142.178.167 | clboh-hadoop-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recmDhZUtMjGW247U",
+        "assetID": "ASSET-00000029",
         "rec_no": 29
     },
     {
         "Asset FQDN": "dev-deo-database-1.dev.chtrse.com",
         "Asset IP": "24.106.215.23",
         "Asset Name": "MariaDB",
-        "Asset_ID": "ASSET-00000066",
+        "Asset Search": "ASSET-00000066 | DEO Data Warehouse | MariaDB | Development | 24.106.215.23 | dev-deo-database-1.dev.chtrse.com | MariaDB | 24.106.215.23 | dev-deo-database-1.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000066 | DEO Data Warehouse | MariaDB | Development | 24.106.215.23 | dev-deo-database-1.dev.chtrse.com",
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-03-17",
-        "Platform Name": "DEO Data Warehouse",
+        "Platform Name": [
+            "recL9O4cUkE5hUSgw"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recmYsCidfQ0nLviY",
+        "assetID": "ASSET-00000066",
         "rec_no": 66
     },
     {
         "Asset FQDN": "austx-hadoop-master-03.chtrse.com",
         "Asset IP": "71.78.96.113",
         "Asset Name": "Hadoop Master",
-        "Asset_ID": "ASSET-00000018",
+        "Asset Search": "ASSET-00000018 | Hadoop | Hadoop Master | Production | 71.78.96.113 | austx-hadoop-master-03.chtrse.com | Hadoop Master | 71.78.96.113 | austx-hadoop-master-03.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000018 | Hadoop | Hadoop Master | Production | 71.78.96.113 | austx-hadoop-master-03.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recnQkUN06oBNllhY",
+        "assetID": "ASSET-00000018",
         "rec_no": 18
     },
     {
         "Asset FQDN": "clboh-hadoop-data-05.chtrse.com",
         "Asset IP": "24.142.178.188",
         "Asset Name": "Hadoop Data",
-        "Asset_ID": "ASSET-00000037",
+        "Asset Search": "ASSET-00000037 | Hadoop | Hadoop Data | Production | 24.142.178.188 | clboh-hadoop-data-05.chtrse.com | Hadoop Data | 24.142.178.188 | clboh-hadoop-data-05.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000037 | Hadoop | Hadoop Data | Production | 24.142.178.188 | clboh-hadoop-data-05.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recoLihn136y0kNLv",
+        "assetID": "ASSET-00000037",
         "rec_no": 37
     },
     {
         "Asset FQDN": "ausx-lab-denodo-01.dev.chtrse.com",
         "Asset IP": "97.105.228.75",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000055",
+        "Asset Search": "ASSET-00000055 | Denodo | Denodo | Development | 97.105.228.75 | ausx-lab-denodo-01.dev.chtrse.com | Denodo | 97.105.228.75 | ausx-lab-denodo-01.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000055 | Denodo | Denodo | Development | 97.105.228.75 | ausx-lab-denodo-01.dev.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Development",
         "Infra Zone": "VMware",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recooIp07tqpkQU6A",
+        "assetID": "ASSET-00000055",
         "rec_no": 55
     },
     {
         "Asset FQDN": " denodo-vip.chtrse.com",
         "Asset IP": "198.24.118.147",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000053",
+        "Asset Search": "ASSET-00000053 | Denodo | Denodo | Production | 198.24.118.147 |  denodo-vip.chtrse.com | Denodo | 198.24.118.147 |  denodo-vip.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000053 | Denodo | Denodo | Production | 198.24.118.147 |  denodo-vip.chtrse.com",
         "Datacenter": "Load Balancer",
         "Elevated Credentials": "Yes",
         "Environment": "Production",
         "Infra Zone": "Openstack",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recpkwuhSGitNlCbO",
+        "assetID": "ASSET-00000053",
         "rec_no": 53
     },
     {
         "Asset FQDN": "dev-deo-kettle-01.dev.chtrse.com",
         "Asset IP": "24.106.215.87",
         "Asset Name": "Kettle",
-        "Asset_ID": "ASSET-00000067",
+        "Asset Search": "ASSET-00000067 | Kettle | Kettle | Development | 24.106.215.87 | dev-deo-kettle-01.dev.chtrse.com | Kettle | 24.106.215.87 | dev-deo-kettle-01.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000067 | Kettle | Kettle | Development | 24.106.215.87 | dev-deo-kettle-01.dev.chtrse.com",
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-03-17",
-        "Platform Name": "Kettle",
+        "Platform Name": [
+            "rec9gUKzxPQPvCCji"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recpoo6Q0n9axXmW5",
+        "assetID": "ASSET-00000067",
         "rec_no": 67
     },
     {
         "Asset FQDN": "clboh-hadoop-kafka-05.chtrse.com",
         "Asset IP": "24.142.178.86",
         "Asset Name": "Hadoop Kafka",
-        "Asset_ID": "ASSET-00000046",
+        "Asset Search": "ASSET-00000046 | Hadoop | Hadoop Kafka | Production | 24.142.178.86 | clboh-hadoop-kafka-05.chtrse.com | Hadoop Kafka | 24.142.178.86 | clboh-hadoop-kafka-05.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000046 | Hadoop | Hadoop Kafka | Production | 24.142.178.86 | clboh-hadoop-kafka-05.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recqUKKpOQJfHqdVC",
+        "assetID": "ASSET-00000046",
         "rec_no": 46
     },
     {
         "Asset FQDN": "clboh-hydra-prod-01.chtrse.com",
         "Asset IP": "67.53.231.231",
         "Asset Name": "Hydra Prod",
-        "Asset_ID": "ASSET-00000079",
+        "Asset Search": "ASSET-00000079 | Hydra | Hydra Prod | Production | 67.53.231.231 | clboh-hydra-prod-01.chtrse.com | Hydra Prod | 67.53.231.231 | clboh-hydra-prod-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000079 | Hydra | Hydra Prod | Production | 67.53.231.231 | clboh-hydra-prod-01.chtrse.com",
         "Datacenter": "Columbus",
         "Elevated Credentials": "Yes",
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": "Hydra",
+        "Platform Name": [
+            "recZz63n9HttDw8oK"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recs1jxxpTycGrDmy",
+        "assetID": "ASSET-00000079",
         "rec_no": 79
     },
     {
@@ -1139,13 +1486,18 @@
         "Asset Hostname": "austx-deo-kube-node-3",
         "Asset IP": "98.6.16.177",
         "Asset Name": "Openstack Prod Austin/Columbus Others",
-        "Asset_ID": "ASSET-00000092",
+        "Asset Search": "ASSET-00000092 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.177 | austx-deo-kube-node-3.chtrse.com | Openstack Prod Austin/Columbus Others | 98.6.16.177 | austx-deo-kube-node-3.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000092 | Openstack | Openstack Prod Austin/Columbus Others | Production | 98.6.16.177 | austx-deo-kube-node-3.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "Openstack",
+        "Platform Name": [
+            "rech923fxxRfIAYMg"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recu1e76NJVXiLbBJ",
+        "assetID": "ASSET-00000092",
         "rec_no": 92
     },
     {
@@ -1153,26 +1505,35 @@
         "Asset Hostname": "clboh-talend-01",
         "Asset IP": "67.53.231.71",
         "Asset Name": "Openstack Prod Austin/Columbus Others",
-        "Asset_ID": "ASSET-00000087",
+        "Asset Search": "ASSET-00000087 | Openstack | Openstack Prod Austin/Columbus Others | Production | 67.53.231.71 | clboh-talend-01.chtrse.com | Openstack Prod Austin/Columbus Others | 67.53.231.71 | clboh-talend-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000087 | Openstack | Openstack Prod Austin/Columbus Others | Production | 67.53.231.71 | clboh-talend-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
         "Infra Zone": "Openstack",
+        "Platform Name": [
+            "rech923fxxRfIAYMg"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recuRdtV7nGjnTQEs",
+        "assetID": "ASSET-00000087",
         "rec_no": 87
     },
     {
         "Asset FQDN": "austx-hadoop-master-02.chtrse.com",
         "Asset IP": "71.78.96.112",
         "Asset Name": "Hadoop Master",
-        "Asset_ID": "ASSET-00000017",
+        "Asset Search": "ASSET-00000017 | Hadoop | Hadoop Master | Production | 71.78.96.112 | austx-hadoop-master-02.chtrse.com | Hadoop Master | 71.78.96.112 | austx-hadoop-master-02.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000017 | Hadoop | Hadoop Master | Production | 71.78.96.112 | austx-hadoop-master-02.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recvE3CHGAkK8557v",
+        "assetID": "ASSET-00000017",
         "rec_no": 17
     },
     {
@@ -1180,107 +1541,141 @@
         "Asset Hostname": "dev-deo-hydra-1",
         "Asset IP": "24.106.215.126",
         "Asset Name": "Hydra",
-        "Asset_ID": "ASSET-00000070",
+        "Asset Search": "ASSET-00000070 | Hydra | Hydra | Development | 24.106.215.126 | dev-deo-hydra-1.chtrse.com | Hydra | 24.106.215.126 | dev-deo-hydra-1.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000070 | Hydra | Hydra | Development | 24.106.215.126 | dev-deo-hydra-1.chtrse.com",
         "Elevated Credentials": "Yes",
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": "Hydra",
+        "Platform Name": [
+            "recZz63n9HttDw8oK"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recvyjFH7laTyiz9Y",
+        "assetID": "ASSET-00000070",
         "rec_no": 70
     },
     {
         "Asset FQDN": "clboh-denodo-01.chtrse.com",
         "Asset IP": "24.142.178.79",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000056",
+        "Asset Search": "ASSET-00000056 | Denodo | Denodo |  | 24.142.178.79 | clboh-denodo-01.chtrse.com | Denodo | 24.142.178.79 | clboh-denodo-01.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000056 | Denodo | Denodo |  | 24.142.178.79 | clboh-denodo-01.chtrse.com",
         "Datacenter": "Columbus",
         "Infra Zone": "VMware",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recx44wKFKqUjirqF",
+        "assetID": "ASSET-00000056",
         "rec_no": 56
     },
     {
         "Asset FQDN": "dev-deo-talend-worker.dev.chtrse.com",
         "Asset IP": "24.106.215.231",
         "Asset Name": "Talend Worker",
-        "Asset_ID": "ASSET-00000068",
+        "Asset Search": "ASSET-00000068 | Talend | Talend Worker | Development | 24.106.215.231 | dev-deo-talend-worker.dev.chtrse.com | Talend Worker | 24.106.215.231 | dev-deo-talend-worker.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000068 | Talend | Talend Worker | Development | 24.106.215.231 | dev-deo-talend-worker.dev.chtrse.com",
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-02-02",
-        "Platform Name": "Talend",
+        "Platform Name": [
+            "recUhvrt7DJaTIEE4"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recxE6TzIcs9Naa5P",
+        "assetID": "ASSET-00000068",
         "rec_no": 68
     },
     {
         "Asset FQDN": "clboh-hadoop-kafka-06.chtrse.com",
         "Asset IP": "24.142.178.87",
         "Asset Name": "Hadoop Kafka",
-        "Asset_ID": "ASSET-00000047",
+        "Asset Search": "ASSET-00000047 | Hadoop | Hadoop Kafka | Production | 24.142.178.87 | clboh-hadoop-kafka-06.chtrse.com | Hadoop Kafka | 24.142.178.87 | clboh-hadoop-kafka-06.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000047 | Hadoop | Hadoop Kafka | Production | 24.142.178.87 | clboh-hadoop-kafka-06.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recxY4uwtFZKh4K4R",
+        "assetID": "ASSET-00000047",
         "rec_no": 47
     },
     {
         "Asset FQDN": "austx-hadoop-data-05.chtrse.com",
         "Asset IP": "71.78.96.122",
         "Asset Name": "Hadoop Data",
-        "Asset_ID": "ASSET-00000026",
+        "Asset Search": "ASSET-00000026 | Hadoop | Hadoop Data | Production | 71.78.96.122 | austx-hadoop-data-05.chtrse.com | Hadoop Data | 71.78.96.122 | austx-hadoop-data-05.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000026 | Hadoop | Hadoop Data | Production | 71.78.96.122 | austx-hadoop-data-05.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": "Hadoop Prod",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recyEPOmQv0rRu1KS",
+        "assetID": "ASSET-00000026",
         "rec_no": 26
     },
     {
         "Asset FQDN": "clboh-hadoop-02.chtrse.com",
         "Asset IP": "24.142.178.168",
         "Asset Name": "Hadoop DR",
-        "Asset_ID": "ASSET-00000030",
+        "Asset Search": "ASSET-00000030 | Hadoop | Hadoop DR | Production | 24.142.178.168 | clboh-hadoop-02.chtrse.com | Hadoop DR | 24.142.178.168 | clboh-hadoop-02.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000030 | Hadoop | Hadoop DR | Production | 24.142.178.168 | clboh-hadoop-02.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": "Hadoop DR",
+        "Platform Name": [
+            "recPVAiLadGd9JIxR"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recyq1O5riKXXrCmm",
+        "assetID": "ASSET-00000030",
         "rec_no": 30
     },
     {
         "Asset FQDN": "austx-prod-denodo-02.chtrse.com",
         "Asset IP": "50.84.225.212",
         "Asset Name": "Denodo",
-        "Asset_ID": "ASSET-00000061",
+        "Asset Search": "ASSET-00000061 | Denodo | Denodo | Production | 50.84.225.212 | austx-prod-denodo-02.chtrse.com | Denodo | 50.84.225.212 | austx-prod-denodo-02.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000061 | Denodo | Denodo | Production | 50.84.225.212 | austx-prod-denodo-02.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "VMware",
+        "Platform Name": [
+            "recfKqBI1skCDSNyh"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "reczC6NI2BIiY72g9",
+        "assetID": "ASSET-00000061",
         "rec_no": 61
     },
     {
         "Asset FQDN": "dev-deo-neo4j-01.dev.chtrse.com",
         "Asset IP": "24.106.215.208",
         "Asset Name": "neo4j",
-        "Asset_ID": "ASSET-00000065",
+        "Asset Search": "ASSET-00000065 | DEO Data Graph | neo4j | Development | 24.106.215.208 | dev-deo-neo4j-01.dev.chtrse.com | neo4j | 24.106.215.208 | dev-deo-neo4j-01.dev.chtrse.com | Green",
+        "Asset_ID": "ASSET-00000065 | DEO Data Graph | neo4j | Development | 24.106.215.208 | dev-deo-neo4j-01.dev.chtrse.com",
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-03-17",
-        "Platform Name": "DEO Data Graph",
+        "Platform Name": [
+            "recqi3anaoS4aUetE"
+        ],
         "Security Zone": "Green",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "reczmuMUpshbzCCTF",
+        "assetID": "ASSET-00000065",
         "rec_no": 65
     }
 ]
