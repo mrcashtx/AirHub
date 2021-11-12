@@ -10,10 +10,12 @@
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-28",
-        "Platform Name": [
+        "Platform Name": "Hydra",
+        "Platform Name Link": [
             "recZz63n9HttDw8oK"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec08EzUjv75CByNT",
         "assetID": "ASSET-00000078",
@@ -29,10 +31,12 @@
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": [
+        "Platform Name": "Sandbox",
+        "Platform Name Link": [
             "reca7oCO0k8zL1d0y"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec1VPwONyZtyzu0V",
         "assetID": "ASSET-00000075",
@@ -46,10 +50,12 @@
         "Asset_ID": "ASSET-00000035 | Hadoop | Hadoop Data | Production | 24.142.178.186 | clboh-hadoop-data-03.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec1YN0FOSjcDSm2q",
         "assetID": "ASSET-00000035",
@@ -64,10 +70,12 @@
         "Datacenter": "Austin",
         "Environment": "Development",
         "Infra Zone": "VMware",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec1k4kUJfoSHYpA9",
         "assetID": "ASSET-00000054",
@@ -81,10 +89,12 @@
         "Asset_ID": "ASSET-00000023 | Hadoop | Hadoop Data | Production | 71.78.96.118 | austx-hadoop-data-01.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec2FZWfcRlKNuLcJ",
         "assetID": "ASSET-00000023",
@@ -99,10 +109,12 @@
         "Datacenter": "Austin",
         "Environment": "Development",
         "Last OS Update": "2021-08-09",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec3Vr2Wh6oNA3KoK",
         "assetID": "ASSET-00000004",
@@ -116,10 +128,12 @@
         "Asset_ID": "ASSET-00000028 | Hadoop | Hadoop Kafka | Production | 71.78.96.125 | austx-hadoop-kafka-06.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec3vwAELneiY5oBR",
         "assetID": "ASSET-00000028",
@@ -133,10 +147,12 @@
         "Asset_ID": "ASSET-00000012 | Hadoop | Hadoop | Production | 50.84.225.207 | austx-hadoop-05.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec5aDfNjqNOVyfmT",
         "assetID": "ASSET-00000012",
@@ -152,10 +168,12 @@
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "Openstack",
-        "Platform Name": [
+        "Platform Name": "Openstack",
+        "Platform Name Link": [
             "rech923fxxRfIAYMg"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec6TzFbvRwbLgHeb",
         "assetID": "ASSET-00000091",
@@ -172,10 +190,12 @@
         "Elevated Credentials": "Yes",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-08",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec7BStphRpqkJ5aC",
         "assetID": "ASSET-00000051",
@@ -189,10 +209,12 @@
         "Asset_ID": "ASSET-00000036 | Hadoop | Hadoop Data | Production | 24.142.178.187 | clboh-hadoop-data-04.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec7YLQNzB6IzM4Vx",
         "assetID": "ASSET-00000036",
@@ -208,10 +230,12 @@
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "Openstack",
-        "Platform Name": [
+        "Platform Name": "Openstack",
+        "Platform Name Link": [
             "rech923fxxRfIAYMg"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec7jiUui6vffpebi",
         "assetID": "ASSET-00000088",
@@ -226,10 +250,12 @@
         "Datacenter": "Austin",
         "Environment": "Development",
         "Last OS Update": "2021-08-12",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec7u5z1JB9J3WpS7",
         "assetID": "ASSET-00000006",
@@ -243,10 +269,12 @@
         "Asset_ID": "ASSET-00000022 | Hadoop | Hadoop Kafka | Production | 71.78.96.117 | austx-hadoop-kafka-03.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec8mcoqpm3yU0Tcc",
         "assetID": "ASSET-00000022",
@@ -260,10 +288,12 @@
         "Asset_ID": "ASSET-00000014 | Hadoop | Hadoop | Production | 50.84.225.209 | austx-hadoop-07.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rec9QlZTlZjPYA717",
         "assetID": "ASSET-00000014",
@@ -279,10 +309,12 @@
         "Datacenter": "Columbus",
         "Environment": "Production",
         "Infra Zone": "Openstack",
-        "Platform Name": [
+        "Platform Name": "Openstack",
+        "Platform Name Link": [
             "rech923fxxRfIAYMg"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recAZLI0z39pgFqLp",
         "assetID": "ASSET-00000086",
@@ -296,10 +328,12 @@
         "Asset_ID": "ASSET-00000044 | Hadoop | Hadoop Kafka | Production | 24.142.178.56 | clboh-hadoop-kafka-03.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recBtPQOWcam9Jpmi",
         "assetID": "ASSET-00000044",
@@ -313,10 +347,12 @@
         "Asset_ID": "ASSET-00000027 | Hadoop | Hadoop Kafka | Production | 71.78.96.124 | austx-hadoop-kafka-05.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recCBuAJrlUp7LAg1",
         "assetID": "ASSET-00000027",
@@ -331,10 +367,12 @@
         "Datacenter": "Austin",
         "Environment": "Development",
         "Last OS Update": "2018-11-29",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:22:19.000Z",
         "airtable_id": "recCblKrAKwDIJpGy",
         "assetID": "ASSET-00000002",
@@ -350,10 +388,12 @@
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "Openstack",
-        "Platform Name": [
+        "Platform Name": "Openstack",
+        "Platform Name Link": [
             "rech923fxxRfIAYMg"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recDG8yARYbnoSPHW",
         "assetID": "ASSET-00000089",
@@ -370,10 +410,12 @@
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": [
+        "Platform Name": "Hydra",
+        "Platform Name Link": [
             "recZz63n9HttDw8oK"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recF9pkoK4sAMV4Dc",
         "assetID": "ASSET-00000080",
@@ -387,10 +429,12 @@
         "Asset_ID": "ASSET-00000010 | Hadoop | Hadoop | Production | 50.84.225.205 | austx-hadoop-03.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recFTZw4EYhU9uJwy",
         "assetID": "ASSET-00000010",
@@ -404,10 +448,12 @@
         "Asset_ID": "ASSET-00000042 | Hadoop | Hadoop Kafka | Production | 24.142.178.54 | clboh-hadoop-kafka-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recGG8zTy4C79l0vW",
         "assetID": "ASSET-00000042",
@@ -422,10 +468,12 @@
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "VMware",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recGGroJ17MBugOMC",
         "assetID": "ASSET-00000060",
@@ -439,10 +487,12 @@
         "Asset_ID": "ASSET-00000011 | Hadoop | Hadoop | Production | 50.84.225.206 | austx-hadoop-04.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recGJYKKGujlu88Xq",
         "assetID": "ASSET-00000011",
@@ -456,10 +506,12 @@
         "Asset_ID": "ASSET-00000019 | Hadoop | Hadoop Edge | Production | 71.78.96.114 | austx-hadoop-edge-01.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recGsSrlbPAS8nqHH",
         "assetID": "ASSET-00000019",
@@ -473,10 +525,12 @@
         "Asset_ID": "ASSET-00000032 | Hadoop | Hadoop DR | Production | 24.142.178.170 | clboh-hadoop-04.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recGtwMtnJ2XGVM8k",
         "assetID": "ASSET-00000032",
@@ -490,10 +544,12 @@
         "Asset_ID": "ASSET-00000021 | Hadoop | Hadoop Kafka | Production | 71.78.96.116 | austx-hadoop-kafka-02.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recGz0iaEaxUL7KCD",
         "assetID": "ASSET-00000021",
@@ -507,10 +563,12 @@
         "Asset_ID": "ASSET-00000038 | Hadoop | Hadoop Master | Production | 24.142.178.42 | clboh-hadoop-master-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recHSVTaB1tHeiAbX",
         "assetID": "ASSET-00000038",
@@ -524,10 +582,12 @@
         "Asset_ID": "ASSET-00000024 | Hadoop | Hadoop Data | Production | 71.78.96.119 | austx-hadoop-data-02.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recI2brABtr2DIEnp",
         "assetID": "ASSET-00000024",
@@ -544,10 +604,12 @@
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": [
+        "Platform Name": "Hydra",
+        "Platform Name Link": [
             "recZz63n9HttDw8oK"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recJ29HnitIsChrd3",
         "assetID": "ASSET-00000072",
@@ -562,10 +624,12 @@
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-02-04",
-        "Platform Name": [
+        "Platform Name": "Talend",
+        "Platform Name Link": [
             "recUhvrt7DJaTIEE4"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recJSXvloFEnQzyf3",
         "assetID": "ASSET-00000069",
@@ -579,10 +643,12 @@
         "Asset_ID": "ASSET-00000043 | Hadoop | Hadoop Kafka | Production | 24.142.178.55 | clboh-hadoop-kafka-02.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recJkHafE0FbjHkBT",
         "assetID": "ASSET-00000043",
@@ -599,10 +665,12 @@
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-03-17",
-        "Platform Name": [
+        "Platform Name": "Openstack",
+        "Platform Name Link": [
             "rech923fxxRfIAYMg"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recLLbHLeG9kZWNPc",
         "assetID": "ASSET-00000083",
@@ -618,10 +686,12 @@
         "Elevated Credentials": "Yes",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-08",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recLfhDCC1ctBINuF",
         "assetID": "ASSET-00000049",
@@ -635,10 +705,12 @@
         "Asset_ID": "ASSET-00000045 | Hadoop | Hadoop Kafka | Production | 24.142.178.85 | clboh-hadoop-kafka-04.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recMOZYvlELbQGoJW",
         "assetID": "ASSET-00000045",
@@ -652,10 +724,12 @@
         "Asset_ID": "ASSET-00000016 | Hadoop | Hadoop | Production | 50.84.225.90 | austx-hadoop-01.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recMo6pIIgskzVOoS",
         "assetID": "ASSET-00000016",
@@ -669,10 +743,12 @@
         "Asset_ID": "ASSET-00000033 | Hadoop | Hadoop Data | Production | 24.142.178.184 | clboh-hadoop-data-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recNGzlEwDz1MnNpc",
         "assetID": "ASSET-00000033",
@@ -686,10 +762,12 @@
         "Asset_ID": "ASSET-00000041 | Hadoop | Hadoop Edge | Production | 24.142.178.46 | clboh-hadoop-edge-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recOL2Bal6O3thFKU",
         "assetID": "ASSET-00000041",
@@ -704,10 +782,12 @@
         "Datacenter": "Columbus",
         "Environment": "Production",
         "Infra Zone": "VMware",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recOet5mccTDs7yU2",
         "assetID": "ASSET-00000057",
@@ -721,10 +801,12 @@
         "Asset_ID": "ASSET-00000031 | Hadoop | Hadoop DR | Production | 24.142.178.169 | clboh-hadoop-03.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recOnGZO5METZtAY2",
         "assetID": "ASSET-00000031",
@@ -739,10 +821,12 @@
         "Datacenter": "Austin",
         "Environment": "Development",
         "Last OS Update": "2021-08-16",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recOx1cSSPMzZN9FG",
         "assetID": "ASSET-00000007",
@@ -756,10 +840,12 @@
         "Asset_ID": "ASSET-00000025 | Hadoop | Hadoop Data | Production | 71.78.96.120 | austx-hadoop-data-03.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recPwLyUxAFaYAhPD",
         "assetID": "ASSET-00000025",
@@ -775,10 +861,12 @@
         "Elevated Credentials": "Yes",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-08",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recQsTwFlZW9KbiCm",
         "assetID": "ASSET-00000048",
@@ -794,10 +882,12 @@
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-07-21",
-        "Platform Name": [
+        "Platform Name": "Granite",
+        "Platform Name Link": [
             "recxYT9wZvKvlg0aV"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recRNe84ifzmlo2w3",
         "assetID": "ASSET-00000073",
@@ -812,10 +902,12 @@
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-08",
-        "Platform Name": [
+        "Platform Name": "Openstack",
+        "Platform Name Link": [
             "rech923fxxRfIAYMg"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recRPOLeSXBkggTzo",
         "assetID": "ASSET-00000063",
@@ -831,10 +923,12 @@
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "Openstack",
-        "Platform Name": [
+        "Platform Name": "Openstack",
+        "Platform Name Link": [
             "rech923fxxRfIAYMg"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recRUxMyWGOIfChbO",
         "assetID": "ASSET-00000082",
@@ -851,10 +945,12 @@
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-03-17",
-        "Platform Name": [
+        "Platform Name": "Openstack",
+        "Platform Name Link": [
             "rech923fxxRfIAYMg"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recS590YyoJfOSe47",
         "assetID": "ASSET-00000085",
@@ -867,9 +963,11 @@
         "Asset Search": "ASSET-00000062 | Denodo | Denodo |  | 69.134.46.75 | denodo.chtrse.com | Denodo | 69.134.46.75 | denodo.chtrse.com | ",
         "Asset_ID": "ASSET-00000062 | Denodo | Denodo |  | 69.134.46.75 | denodo.chtrse.com",
         "Infra Zone": "VMware",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recSeLkHIzjCKiHc3",
         "assetID": "ASSET-00000062",
@@ -886,10 +984,12 @@
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-28",
-        "Platform Name": [
+        "Platform Name": "Hydra",
+        "Platform Name Link": [
             "recZz63n9HttDw8oK"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recTKxscx4TEItTXQ",
         "assetID": "ASSET-00000076",
@@ -904,10 +1004,12 @@
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-03-17",
-        "Platform Name": [
+        "Platform Name": "API Umbrella",
+        "Platform Name Link": [
             "recrk0ubqOUTjZMbu"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recTyHDf9SrwsDVOg",
         "assetID": "ASSET-00000064",
@@ -921,10 +1023,12 @@
         "Asset_ID": "ASSET-00000034 | Hadoop | Hadoop Data | Production | 24.142.178.185 | clboh-hadoop-data-02.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recU2VzYwOElRNBQq",
         "assetID": "ASSET-00000034",
@@ -938,10 +1042,12 @@
         "Asset_ID": "ASSET-00000009 | Hadoop | Hadoop | Production | 50.84.225.204 | austx-hadoop-02.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recV1WBIME7uPJAVT",
         "assetID": "ASSET-00000009",
@@ -955,10 +1061,12 @@
         "Asset_ID": "ASSET-00000020 | Hadoop | Hadoop Kafka | Production | 71.78.96.115 | austx-hadoop-kafka-01.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recVZjkII2VrhYw61",
         "assetID": "ASSET-00000020",
@@ -974,10 +1082,12 @@
         "Datacenter": "Columbus",
         "Environment": "Production",
         "Infra Zone": "Openstack",
-        "Platform Name": [
+        "Platform Name": "Openstack",
+        "Platform Name Link": [
             "rech923fxxRfIAYMg"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recW6a5ivmNpW0exJ",
         "assetID": "ASSET-00000084",
@@ -991,10 +1101,12 @@
         "Asset_ID": "ASSET-00000013 | Hadoop | Hadoop | Production | 50.84.225.208 | austx-hadoop-06.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recWFy8EZKu1g1I51",
         "assetID": "ASSET-00000013",
@@ -1010,10 +1122,12 @@
         "Elevated Credentials": "Yes",
         "Environment": "Development",
         "Last OS Update": "2021-04-06",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recWt3TfSvm3kkDFi",
         "assetID": "ASSET-00000008",
@@ -1021,17 +1135,21 @@
     },
     {
         "Asset FQDN": "austx-lab-hadoop-manager-01.dev.chtrse.com",
+        "Asset Hostname": "austx-lab-hadoop-manager-01",
         "Asset IP": "97.105.228.119",
         "Asset Name": "Hadoop",
         "Asset Search": "ASSET-00000001 | Hadoop | Hadoop | Development | 97.105.228.119 | austx-lab-hadoop-manager-01.dev.chtrse.com | Hadoop | 97.105.228.119 | austx-lab-hadoop-manager-01.dev.chtrse.com | Green",
         "Asset_ID": "ASSET-00000001 | Hadoop | Hadoop | Development | 97.105.228.119 | austx-lab-hadoop-manager-01.dev.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Development",
+        "Infra Zone": "VMware",
         "Last OS Update": "2019-07-29",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:22:19.000Z",
         "airtable_id": "recYBx2SHzjdYcFsV",
         "assetID": "ASSET-00000001",
@@ -1069,10 +1187,12 @@
         "Elevated Credentials": "Yes",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-08",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recaBIjRwuvmntMkh",
         "assetID": "ASSET-00000050",
@@ -1086,10 +1206,12 @@
         "Asset_ID": "ASSET-00000040 | Hadoop | Hadoop Master | Production | 24.142.178.44 | clboh-hadoop-master-03.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recaQg5Z2S9ZUGbSo",
         "assetID": "ASSET-00000040",
@@ -1106,10 +1228,12 @@
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": [
+        "Platform Name": "Hydra",
+        "Platform Name Link": [
             "recZz63n9HttDw8oK"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recb7Gl5URVAZzMgC",
         "assetID": "ASSET-00000071",
@@ -1124,10 +1248,12 @@
         "Datacenter": "Austin",
         "Environment": "Development",
         "Last OS Update": "2021-08-09",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "reccB4zewmeZHRch3",
         "assetID": "ASSET-00000005",
@@ -1144,10 +1270,12 @@
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": [
+        "Platform Name": "Hydra",
+        "Platform Name Link": [
             "recZz63n9HttDw8oK"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recctuXe3zbVzAmJ9",
         "assetID": "ASSET-00000081",
@@ -1163,10 +1291,12 @@
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "Openstack",
-        "Platform Name": [
+        "Platform Name": "Openstack",
+        "Platform Name Link": [
             "rech923fxxRfIAYMg"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "receNK2AYGJN66d30",
         "assetID": "ASSET-00000090",
@@ -1183,10 +1313,12 @@
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-28",
-        "Platform Name": [
+        "Platform Name": "Hydra",
+        "Platform Name Link": [
             "recZz63n9HttDw8oK"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recfEJGpFzrjKsBmS",
         "assetID": "ASSET-00000077",
@@ -1202,10 +1334,12 @@
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-07-21",
-        "Platform Name": [
+        "Platform Name": "Granite",
+        "Platform Name Link": [
             "recxYT9wZvKvlg0aV"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recfMDSyrD3XzSOsU",
         "assetID": "ASSET-00000074",
@@ -1219,10 +1353,12 @@
         "Asset_ID": "ASSET-00000039 | Hadoop | Hadoop Master | Production | 24.142.178.43 | clboh-hadoop-master-02.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recfd9GwBXqtjQjJw",
         "assetID": "ASSET-00000039",
@@ -1237,10 +1373,12 @@
         "Datacenter": "Columbus",
         "Environment": "Development",
         "Infra Zone": "VMware",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recfrANjFK56VCVen",
         "assetID": "ASSET-00000059",
@@ -1257,10 +1395,12 @@
         "Elevated Credentials": "Yes",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-04-08",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "rech5jx738KtP0kVC",
         "assetID": "ASSET-00000052",
@@ -1276,10 +1416,12 @@
         "Elevated Credentials": "Yes",
         "Environment": "Development",
         "Last OS Update": "2021-04-06",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:22:19.000Z",
         "airtable_id": "rechkEXBpW4YmfDpo",
         "assetID": "ASSET-00000003",
@@ -1293,10 +1435,12 @@
         "Asset_ID": "ASSET-00000015 | Hadoop | Hadoop | Production | 50.84.225.210 | austx-hadoop-08.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recjohkNQY9UWpqRF",
         "assetID": "ASSET-00000015",
@@ -1311,10 +1455,12 @@
         "Datacenter": "Columbus",
         "Environment": "Production",
         "Infra Zone": "VMware",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recjpIfanGgZtgKmU",
         "assetID": "ASSET-00000058",
@@ -1328,10 +1474,12 @@
         "Asset_ID": "ASSET-00000029 | Hadoop | Hadoop DR | Production | 24.142.178.167 | clboh-hadoop-01.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recmDhZUtMjGW247U",
         "assetID": "ASSET-00000029",
@@ -1346,10 +1494,12 @@
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-03-17",
-        "Platform Name": [
+        "Platform Name": "DEO Data Warehouse",
+        "Platform Name Link": [
             "recL9O4cUkE5hUSgw"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recmYsCidfQ0nLviY",
         "assetID": "ASSET-00000066",
@@ -1363,10 +1513,12 @@
         "Asset_ID": "ASSET-00000018 | Hadoop | Hadoop Master | Production | 71.78.96.113 | austx-hadoop-master-03.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recnQkUN06oBNllhY",
         "assetID": "ASSET-00000018",
@@ -1380,10 +1532,12 @@
         "Asset_ID": "ASSET-00000037 | Hadoop | Hadoop Data | Production | 24.142.178.188 | clboh-hadoop-data-05.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recoLihn136y0kNLv",
         "assetID": "ASSET-00000037",
@@ -1398,10 +1552,12 @@
         "Datacenter": "Austin",
         "Environment": "Development",
         "Infra Zone": "VMware",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recooIp07tqpkQU6A",
         "assetID": "ASSET-00000055",
@@ -1417,10 +1573,12 @@
         "Elevated Credentials": "Yes",
         "Environment": "Production",
         "Infra Zone": "Openstack",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recpkwuhSGitNlCbO",
         "assetID": "ASSET-00000053",
@@ -1435,10 +1593,12 @@
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-03-17",
-        "Platform Name": [
+        "Platform Name": "Kettle",
+        "Platform Name Link": [
             "rec9gUKzxPQPvCCji"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recpoo6Q0n9axXmW5",
         "assetID": "ASSET-00000067",
@@ -1452,10 +1612,12 @@
         "Asset_ID": "ASSET-00000046 | Hadoop | Hadoop Kafka | Production | 24.142.178.86 | clboh-hadoop-kafka-05.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recqUKKpOQJfHqdVC",
         "assetID": "ASSET-00000046",
@@ -1472,10 +1634,12 @@
         "Environment": "Production",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": [
+        "Platform Name": "Hydra",
+        "Platform Name Link": [
             "recZz63n9HttDw8oK"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recs1jxxpTycGrDmy",
         "assetID": "ASSET-00000079",
@@ -1491,10 +1655,12 @@
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "Openstack",
-        "Platform Name": [
+        "Platform Name": "Openstack",
+        "Platform Name Link": [
             "rech923fxxRfIAYMg"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recu1e76NJVXiLbBJ",
         "assetID": "ASSET-00000092",
@@ -1510,10 +1676,12 @@
         "Datacenter": "Columbus",
         "Environment": "Production",
         "Infra Zone": "Openstack",
-        "Platform Name": [
+        "Platform Name": "Openstack",
+        "Platform Name Link": [
             "rech923fxxRfIAYMg"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recuRdtV7nGjnTQEs",
         "assetID": "ASSET-00000087",
@@ -1527,10 +1695,12 @@
         "Asset_ID": "ASSET-00000017 | Hadoop | Hadoop Master | Production | 71.78.96.112 | austx-hadoop-master-02.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recvE3CHGAkK8557v",
         "assetID": "ASSET-00000017",
@@ -1547,10 +1717,12 @@
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2021-06-10",
-        "Platform Name": [
+        "Platform Name": "Hydra",
+        "Platform Name Link": [
             "recZz63n9HttDw8oK"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recvyjFH7laTyiz9Y",
         "assetID": "ASSET-00000070",
@@ -1564,10 +1736,12 @@
         "Asset_ID": "ASSET-00000056 | Denodo | Denodo |  | 24.142.178.79 | clboh-denodo-01.chtrse.com",
         "Datacenter": "Columbus",
         "Infra Zone": "VMware",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recx44wKFKqUjirqF",
         "assetID": "ASSET-00000056",
@@ -1582,10 +1756,12 @@
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-02-02",
-        "Platform Name": [
+        "Platform Name": "Talend",
+        "Platform Name Link": [
             "recUhvrt7DJaTIEE4"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recxE6TzIcs9Naa5P",
         "assetID": "ASSET-00000068",
@@ -1599,10 +1775,12 @@
         "Asset_ID": "ASSET-00000047 | Hadoop | Hadoop Kafka | Production | 24.142.178.87 | clboh-hadoop-kafka-06.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recxY4uwtFZKh4K4R",
         "assetID": "ASSET-00000047",
@@ -1616,10 +1794,12 @@
         "Asset_ID": "ASSET-00000026 | Hadoop | Hadoop Data | Production | 71.78.96.122 | austx-hadoop-data-05.chtrse.com",
         "Datacenter": "Austin",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recyEPOmQv0rRu1KS",
         "assetID": "ASSET-00000026",
@@ -1633,10 +1813,12 @@
         "Asset_ID": "ASSET-00000030 | Hadoop | Hadoop DR | Production | 24.142.178.168 | clboh-hadoop-02.chtrse.com",
         "Datacenter": "Columbus",
         "Environment": "Production",
-        "Platform Name": [
+        "Platform Name": "Hadoop",
+        "Platform Name Link": [
             "recPVAiLadGd9JIxR"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "recyq1O5riKXXrCmm",
         "assetID": "ASSET-00000030",
@@ -1651,10 +1833,12 @@
         "Datacenter": "Austin",
         "Environment": "Production",
         "Infra Zone": "VMware",
-        "Platform Name": [
+        "Platform Name": "Denodo",
+        "Platform Name Link": [
             "recfKqBI1skCDSNyh"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "reczC6NI2BIiY72g9",
         "assetID": "ASSET-00000061",
@@ -1669,10 +1853,12 @@
         "Environment": "Development",
         "Infra Zone": "Openstack",
         "Last OS Update": "2020-03-17",
-        "Platform Name": [
+        "Platform Name": "DEO Data Graph",
+        "Platform Name Link": [
             "recqi3anaoS4aUetE"
         ],
         "Security Zone": "Green",
+        "Status": "Live",
         "airtable_createdTime": "2021-10-05T16:46:35.000Z",
         "airtable_id": "reczmuMUpshbzCCTF",
         "assetID": "ASSET-00000065",
