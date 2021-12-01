@@ -2,6 +2,8 @@
     {
         "Asset FQDN": "austx-hydra-prod-03.chtrse.com",
         "Asset IP": "98.6.16.16",
+        "Asset Load Balancer FQDN": "24.142.178.35",
+        "Asset Load Balancer IP": "hydra-vip.chtrse.com",
         "Asset Name": "Hydra Prod",
         "Asset Search": "ASSET-00000078 | Hydra | Hydra Prod | Production | 98.6.16.16 | austx-hydra-prod-03.chtrse.com | Hydra Prod | 98.6.16.16 | austx-hydra-prod-03.chtrse.com | Green",
         "Asset_ID": "ASSET-00000078 | Hydra | Hydra Prod | Production | 98.6.16.16 | austx-hydra-prod-03.chtrse.com",
@@ -403,6 +405,8 @@
     {
         "Asset FQDN": "clboh-hydra-prod-02.chtrse.com",
         "Asset IP": "67.53.231.73",
+        "Asset Load Balancer FQDN": "24.142.178.35",
+        "Asset Load Balancer IP": "hydra-vip.chtrse.com",
         "Asset Name": "Hydra Prod",
         "Asset Search": "ASSET-00000080 | Hydra | Hydra Prod | Production | 67.53.231.73 | clboh-hydra-prod-02.chtrse.com | Hydra Prod | 67.53.231.73 | clboh-hydra-prod-02.chtrse.com | Green",
         "Asset_ID": "ASSET-00000080 | Hydra | Hydra Prod | Production | 67.53.231.73 | clboh-hydra-prod-02.chtrse.com",
@@ -598,6 +602,8 @@
         "Asset FQDN": "dev-deo-hydra-3.chtrse.com",
         "Asset Hostname": "dev-deo-hydra-3",
         "Asset IP": "24.106.215.187",
+        "Asset Load Balancer FQDN": "24.106.215.172",
+        "Asset Load Balancer IP": "dev-deo-hydra-vip.chtrse.com",
         "Asset Name": "Hydra",
         "Asset Search": "ASSET-00000072 | Hydra | Hydra | Development | 24.106.215.187 | dev-deo-hydra-3.chtrse.com | Hydra | 24.106.215.187 | dev-deo-hydra-3.chtrse.com | Green",
         "Asset_ID": "ASSET-00000072 | Hydra | Hydra | Development | 24.106.215.187 | dev-deo-hydra-3.chtrse.com",
@@ -982,6 +988,8 @@
     {
         "Asset FQDN": "austx-hydra-prod-01.chtrse.com",
         "Asset IP": "98.6.16.196",
+        "Asset Load Balancer FQDN": "24.142.178.35",
+        "Asset Load Balancer IP": "hydra-vip.chtrse.com",
         "Asset Name": "Hydra Prod",
         "Asset Search": "ASSET-00000076 | Hydra | Hydra Prod | Production | 98.6.16.196 | austx-hydra-prod-01.chtrse.com | Hydra Prod | 98.6.16.196 | austx-hydra-prod-01.chtrse.com | Green",
         "Asset_ID": "ASSET-00000076 | Hydra | Hydra Prod | Production | 98.6.16.196 | austx-hydra-prod-01.chtrse.com",
@@ -1228,6 +1236,8 @@
         "Asset FQDN": "dev-deo-hydra-2.chtrse.com",
         "Asset Hostname": "dev-deo-hydra-2",
         "Asset IP": "24.106.215.183",
+        "Asset Load Balancer FQDN": "24.106.215.172",
+        "Asset Load Balancer IP": "dev-deo-hydra-vip.chtrse.com",
         "Asset Name": "Hydra",
         "Asset Search": "ASSET-00000071 | Hydra | Hydra | Development | 24.106.215.183 | dev-deo-hydra-2.chtrse.com | Hydra | 24.106.215.183 | dev-deo-hydra-2.chtrse.com | Green",
         "Asset_ID": "ASSET-00000071 | Hydra | Hydra | Development | 24.106.215.183 | dev-deo-hydra-2.chtrse.com",
@@ -1270,6 +1280,8 @@
     {
         "Asset FQDN": "clboh-hydra-prod-03.chtrse.com",
         "Asset IP": "67.53.231.125",
+        "Asset Load Balancer FQDN": "24.142.178.35",
+        "Asset Load Balancer IP": "hydra-vip.chtrse.com",
         "Asset Name": "Hydra Prod",
         "Asset Search": "ASSET-00000081 | Hydra | Hydra Prod | Production | 67.53.231.125 | clboh-hydra-prod-03.chtrse.com | Hydra Prod | 67.53.231.125 | clboh-hydra-prod-03.chtrse.com | Green",
         "Asset_ID": "ASSET-00000081 | Hydra | Hydra Prod | Production | 67.53.231.125 | clboh-hydra-prod-03.chtrse.com",
@@ -1313,6 +1325,8 @@
     {
         "Asset FQDN": "austx-hydra-prod-02.chtrse.com",
         "Asset IP": "98.6.16.169",
+        "Asset Load Balancer FQDN": "24.142.178.35",
+        "Asset Load Balancer IP": "hydra-vip.chtrse.com",
         "Asset Name": "Hydra Prod",
         "Asset Search": "ASSET-00000077 | Hydra | Hydra Prod | Production | 98.6.16.169 | austx-hydra-prod-02.chtrse.com | Hydra Prod | 98.6.16.169 | austx-hydra-prod-02.chtrse.com | Green",
         "Asset_ID": "ASSET-00000077 | Hydra | Hydra Prod | Production | 98.6.16.169 | austx-hydra-prod-02.chtrse.com",
@@ -1635,6 +1649,8 @@
     {
         "Asset FQDN": "clboh-hydra-prod-01.chtrse.com",
         "Asset IP": "67.53.231.231",
+        "Asset Load Balancer FQDN": "24.142.178.35",
+        "Asset Load Balancer IP": "hydra-vip.chtrse.com",
         "Asset Name": "Hydra Prod",
         "Asset Search": "ASSET-00000079 | Hydra | Hydra Prod | Production | 67.53.231.231 | clboh-hydra-prod-01.chtrse.com | Hydra Prod | 67.53.231.231 | clboh-hydra-prod-01.chtrse.com | Green",
         "Asset_ID": "ASSET-00000079 | Hydra | Hydra Prod | Production | 67.53.231.231 | clboh-hydra-prod-01.chtrse.com",
